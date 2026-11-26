@@ -234,12 +234,14 @@
         {
           "youtube": "bxAya_Oe0pI",
           "titulo": "Violencia de género · Pastriz",
-          "subtitulo": "Julio de 2025 · 8 participantes de 11 a 23 años · Ayuntamiento de Pastriz"
+          "subtitulo": "Julio de 2025 · 8 participantes de 11 a 23 años · Ayuntamiento de Pastriz",
+          "portada": "archivos/videoclip-pastriz.webp"
         },
         {
           "youtube": "O5iiuNc1o8Y",
           "titulo": "Bullying · Alfajarín",
-          "subtitulo": "Noviembre de 2025 · 6 participantes de 8 a 13 años · Otoño Cultural de Alfajarín"
+          "subtitulo": "Noviembre de 2025 · 6 participantes de 8 a 13 años · Otoño Cultural de Alfajarín",
+          "portada": "archivos/videoclip-alfajarin.webp"
         }
       ]
     },
