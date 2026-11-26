@@ -84,7 +84,7 @@
       "tipo": "texto-foto",
       "id": "quienes",
       "menu": "Quiénes somos",
-      "capitulo": "00 / QUIÉNES SOMOS",
+      "capitulo": "01 / QUIÉNES SOMOS",
       "antetitulo": "La asociación",
       "titulo": "El rap nació para dar voz. [[Lo llevamos a las aulas.]]",
       "parrafos": [
@@ -101,7 +101,7 @@
       "tipo": "texto-foto",
       "id": "equipo",
       "menu": "Equipo",
-      "capitulo": "01 / EL EQUIPO",
+      "capitulo": "02 / EL EQUIPO",
       "antetitulo": "Adrián Franco · AdriPuntoEfe",
       "titulo": "MC, productor y [[técnico de sonido.]]",
       "parrafos": [
@@ -139,7 +139,7 @@
       "tipo": "pasos",
       "id": "taller",
       "menu": "El taller",
-      "capitulo": "02 / MENTES SENSIBLES",
+      "capitulo": "03 / MENTES SENSIBLES",
       "antetitulo": "Cómo es el taller",
       "titulo": "De la idea [[a la canción publicada.]]",
       "entradilla": "**Mentes Sensibles** es un proyecto de creación asistida: usamos el rap para trabajar la comunicación, el trabajo en equipo, la iniciativa, el autoconocimiento, la confianza y la autoestima.",
@@ -169,7 +169,7 @@
     {
       "tipo": "lista",
       "id": "tematicas",
-      "capitulo": "03 / LAS TEMÁTICAS",
+      "capitulo": "04 / LAS TEMÁTICAS",
       "antetitulo": "Sobre qué escribimos",
       "titulo": "Temas que [[están en su día a día.]]",
       "entradilla": "Elegís la temática según lo que necesite el grupo. Lo importante es que piensen, debatan y lo cuenten con sus palabras.",
@@ -225,7 +225,7 @@
       "tipo": "videos",
       "id": "videoclips",
       "menu": "Videoclips",
-      "capitulo": "04 / LOS RESULTADOS",
+      "capitulo": "05 / LOS RESULTADOS",
       "antetitulo": "Trabajos anteriores",
       "titulo": "No son público. [[Son autores.]]",
       "entradilla": "Cada canción está escrita íntegramente por los chicos y chicas del taller. Estos son los trabajos de 2025.",
@@ -245,7 +245,7 @@
     },
     {
       "tipo": "manifiesto",
-      "capitulo": "05 / LO QUE NOS MUEVE",
+      "capitulo": "06 / LO QUE NOS MUEVE",
       "antetitulo": "Nuestros valores",
       "titulo": "Mi voz [[también educa.]]",
       "frases": [
@@ -268,7 +268,7 @@
     },
     {
       "tipo": "faq",
-      "capitulo": "06 / DUDAS",
+      "capitulo": "07 / DUDAS",
       "titulo": "Lo que [[nos suelen preguntar.]]",
       "preguntas": [
         {
@@ -293,7 +293,7 @@
       "tipo": "cuestionario",
       "id": "contacto",
       "menu": "Contacto",
-      "capitulo": "07 / HABLAMOS",
+      "capitulo": "08 / HABLAMOS",
       "antetitulo": "Contacto",
       "titulo": "¿[[Hablamos?]]",
       "entradilla": "Si quieres conocernos, colaborar con la asociación o que llevemos un taller a tu centro o municipio, escríbenos. Puedes hacerlo directamente o contestar tres preguntas y abrimos WhatsApp con todo preparado.",
