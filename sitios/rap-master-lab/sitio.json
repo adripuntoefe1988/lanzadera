@@ -1,7 +1,7 @@
 {
   "titulo": "Rap Master Lab · Asociación cultural de rap con valores",
   "descripcion": "Asociación cultural que promueve valores a través de talleres de rap: jóvenes que reflexionan, escriben su canción y graban su videoclip.",
-  "_nota": "Web para conocer la labor de la asociación, sus trabajos y contactar. Sin precios ni enfoque comercial (decisión de Adrián, 26/11/2026). Pendiente: fotos de VicNW.",
+  "_nota": "Web para conocer la labor de la asociación, sus trabajos y contactar. Sin precios ni enfoque comercial (decisión de Adrián, 26/11/2026).",
   "tema": "templo",
   "ajustesTema": {
     "--fondo": "#0F0D0D",
@@ -132,8 +132,18 @@
         "También es freestyler y ha competido en varias batallas locales.",
         "Es la persona delegada de protección a la infancia de la asociación."
       ],
-      "foto": "",
-      "fotoAlt": "FOTO PENDIENTE: VicNW en vertical, buena calidad (con micro o en un taller)"
+      "fotos": [
+        {
+          "src": "archivos/vicnw-micro.webp",
+          "alt": "VicNW rapeando con el micro en la mano",
+          "pos": "50% 30%"
+        },
+        {
+          "src": "archivos/vicnw-retrato.webp",
+          "alt": "Retrato de VicNW en la calle",
+          "pos": "50% 25%"
+        }
+      ]
     },
     {
       "tipo": "pasos",
