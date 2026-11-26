@@ -1,6 +1,6 @@
 {
-  "titulo": "Rap Master Lab · Asociación cultural de rap con valores",
-  "descripcion": "Asociación cultural que promueve valores a través de talleres de rap: jóvenes que reflexionan, escriben su canción y graban su videoclip.",
+  "titulo": "Rap Master Lab · Talleres de rap con conciencia",
+  "descripcion": "Talleres de rap con conciencia para institutos, ayuntamientos, asociaciones y centros de juventud: los jóvenes escriben su canción y graban su videoclip.",
   "_nota": "Web para conocer la labor de la asociación, sus trabajos y contactar. Sin precios ni enfoque comercial (decisión de Adrián, 26/11/2026).",
   "tema": "templo",
   "ajustesTema": {
@@ -41,7 +41,7 @@
   "secciones": [
     {
       "tipo": "hero",
-      "antetitulo": "Asociación cultural · Talleres de rap con valores",
+      "antetitulo": "Asociación cultural · Talleres de rap con conciencia",
       "titulo": [
         "Su voz",
         "también educa.",
@@ -50,7 +50,7 @@
           "acento": true
         }
       ],
-      "entradilla": "Somos una asociación cultural que usa el rap para trabajar valores con jóvenes. En cada taller reflexionan sobre un tema social, escriben su propia canción y graban su videoclip.",
+      "entradilla": "Llevamos el rap a institutos, ayuntamientos, asociaciones y centros de juventud. Los chicos y chicas reflexionan sobre un tema social, escriben su propia canción y graban su videoclip.",
       "foto": "archivos/taller-vicnw.webp",
       "fotoAlt": "VicNW ayudando a un grupo de alumnos a escribir su letra en clase",
       "fotoPos": "60% 35%",
@@ -86,11 +86,11 @@
       "menu": "Quiénes somos",
       "capitulo": "01 / QUIÉNES SOMOS",
       "antetitulo": "La asociación",
-      "titulo": "El rap nació para dar voz. [[Lo llevamos a las aulas.]]",
+      "titulo": "El rap nació para dar voz. [[Se la devolvemos a los jóvenes.]]",
       "parrafos": [
         "Rap Master Lab surge de la necesidad de trasladar los valores de unión, respeto, amor y superación, impresos en el ADN de la cultura del Hip Hop, más allá de los círculos y circuitos convencionales de este género.",
-        "Creemos fielmente en el mensaje transformador de las palabras y en cómo pueden impactar de manera muy positiva en las nuevas generaciones.",
-        "Somos una asociación sin ánimo de lucro con sede en Alfajarín (Zaragoza). Usamos la música, y sobre todo el rap, para fomentar la expresión, la participación y la reflexión sobre cuestiones sociales."
+        "Creemos en el poder transformador de las palabras y en cómo pueden impactar de manera muy positiva en las nuevas generaciones. Por eso usamos el rap, una música que los jóvenes ya sienten suya, para que hablen de lo que les preocupa.",
+        "Somos una asociación sin ánimo de lucro con sede en Alfajarín (Zaragoza). Trabajamos con institutos, ayuntamientos, asociaciones y centros de juventud, y adaptamos cada taller al grupo y a lo que necesita trabajar."
       ],
       "cita": "La creación musical como herramienta de expresión, participación y defensa de los derechos.",
       "foto": "archivos/taller-grupo.webp",
@@ -99,38 +99,13 @@
     },
     {
       "tipo": "texto-foto",
-      "id": "equipo",
-      "menu": "Equipo",
-      "capitulo": "02 / EL EQUIPO",
-      "antetitulo": "Adrián Franco · AdriPuntoEfe",
-      "titulo": "MC, productor y [[técnico de sonido.]]",
-      "parrafos": [
-        "En activo desde 2008. Como cantante ha sacado 3 discos de estudio y 6 maquetas, y ha pisado escenarios como Zaragoza Ciudad, Territorio Delicias I y II (como organizador), Valencia All Stars y Magdalena HipHop.",
-        "Como productor y técnico ha trabajado con más de un centenar de artistas de toda España y ha editado más de 1.500 canciones desde su estudio, Refuge Sound Record.",
-        "Ha impartido talleres de rap para jóvenes y coordina cursos de DJ y producción musical. En el taller se encarga del proceso de creación, la grabación y el videoclip."
-      ],
-      "fotos": [
-        {
-          "src": "archivos/adri-estudio-vertical-1.webp",
-          "alt": "AdriPuntoEfe de pie en su estudio"
-        },
-        {
-          "src": "archivos/adri-estudio-horizontal-2.webp",
-          "alt": "AdriPuntoEfe sentado en el sofá del estudio",
-          "pos": "40% 40%"
-        }
-      ]
-    },
-    {
-      "tipo": "texto-foto",
-      "invertir": true,
-      "fondo": "igual",
       "antetitulo": "Víctor Atienza · VicNW",
       "titulo": "Letras que [[cuentan la realidad.]]",
       "parrafos": [
-        "Artista zaragozano, conocido por sus letras profundas, que reflejan con dureza algunas realidades. En 2022 su tema **«Leonas»** ganó un concurso del Instituto Aragonés de la Juventud y fue nombrado himno contra la violencia de género en Aragón.",
+        "Artista zaragozano, conocido por sus letras profundas, que reflejan con dureza algunas realidades. Es quien más recorrido tiene en el equipo dinamizando talleres con jóvenes, y el que conecta con el grupo desde el primer minuto.",
+        "En 2022 su tema **«Leonas»** ganó un concurso del Instituto Aragonés de la Juventud y fue nombrado himno contra la violencia de género en Aragón.",
         "Sabe de lo que habla. En su libro **«En la sombra del silencio»** cuenta su propia historia: la de alguien que vivió en primera persona el maltrato y la violencia de género, y que encontró en la escritura una forma de romper ese silencio.",
-        "También es freestyler, ha competido en varias batallas locales y es la persona delegada de protección a la infancia de la asociación."
+        "También es freestyler y es la persona delegada de protección a la infancia de la asociación."
       ],
       "fotos": [
         {
@@ -143,7 +118,33 @@
           "alt": "VicNW escribiendo con una pluma",
           "pos": "50% 35%"
         }
-      ]
+      ],
+      "id": "equipo",
+      "menu": "Equipo",
+      "capitulo": "02 / EL EQUIPO"
+    },
+    {
+      "tipo": "texto-foto",
+      "antetitulo": "Adrián Franco · AdriPuntoEfe",
+      "titulo": "MC, productor y [[técnico de sonido.]]",
+      "parrafos": [
+        "En activo desde 2008. Como cantante ha sacado 3 discos de estudio y 6 maquetas, y ha pisado escenarios como Zaragoza Ciudad, Territorio Delicias I y II (como organizador), Valencia All Stars y Magdalena HipHop.",
+        "Como productor y técnico ha trabajado con más de un centenar de artistas de toda España y ha editado más de 1.500 canciones desde su estudio, Refuge Sound Record.",
+        "Ha impartido talleres de rap para jóvenes y coordina cursos de DJ y producción musical. En el taller se encarga de la parte musical: el proceso de creación, la grabación y el videoclip."
+      ],
+      "fotos": [
+        {
+          "src": "archivos/adri-estudio-vertical-1.webp",
+          "alt": "AdriPuntoEfe de pie en su estudio"
+        },
+        {
+          "src": "archivos/adri-estudio-horizontal-2.webp",
+          "alt": "AdriPuntoEfe sentado en el sofá del estudio",
+          "pos": "40% 40%"
+        }
+      ],
+      "invertir": true,
+      "fondo": "igual"
     },
     {
       "tipo": "pasos",
@@ -152,7 +153,7 @@
       "capitulo": "03 / MENTES SENSIBLES",
       "antetitulo": "Cómo es el taller",
       "titulo": "De la idea [[a la canción publicada.]]",
-      "entradilla": "**Mentes Sensibles** es un proyecto de creación asistida: usamos el rap para trabajar la comunicación, el trabajo en equipo, la iniciativa, el autoconocimiento, la confianza y la autoestima.",
+      "entradilla": "**Mentes Sensibles** es nuestro taller de creación asistida. Usamos el rap como herramienta educativa para trabajar la comunicación, el trabajo en equipo, la iniciativa, el autoconocimiento, la confianza y la autoestima.",
       "pasos": [
         {
           "titulo": "De dónde viene el rap",
@@ -182,7 +183,7 @@
       "capitulo": "04 / LAS TEMÁTICAS",
       "antetitulo": "Sobre qué escribimos",
       "titulo": "Temas que [[están en su día a día.]]",
-      "entradilla": "Elegís la temática según lo que necesite el grupo. Lo importante es que piensen, debatan y lo cuenten con sus palabras.",
+      "entradilla": "El centro o la entidad elige la temática según lo que necesite el grupo. Lo importante es que piensen, debatan y lo cuenten con sus palabras.",
       "items": [
         {
           "icono": "01",
@@ -288,6 +289,10 @@
           "respuesta": "No. No hace falta experiencia en rap, en escritura ni en música. Les enseñamos lo necesario y escriben en equipo, así nadie se queda solo frente al papel."
         },
         {
+          "pregunta": "¿Con qué grupos trabajáis?",
+          "respuesta": "Con grupos de institutos, ayuntamientos, asociaciones y centros de juventud. Hasta ahora hemos trabajado con chicos y chicas de 8 a 23 años, y adaptamos el lenguaje y la dinámica a cada edad."
+        },
+        {
           "pregunta": "¿Cuánto dura y cuántas visitas son?",
           "respuesta": "Normalmente son dos encuentros. En el primero, de unos 100 minutos por grupo, se escribe la canción. En el segundo, de unas 3 horas, se graban la canción y el videoclip."
         },
@@ -308,7 +313,7 @@
       "capitulo": "08 / HABLAMOS",
       "antetitulo": "Contacto",
       "titulo": "¿[[Hablamos?]]",
-      "entradilla": "Si quieres conocernos, colaborar con la asociación o que llevemos un taller a tu centro o municipio, escríbenos. Puedes hacerlo directamente o contestar tres preguntas y abrimos WhatsApp con todo preparado.",
+      "entradilla": "Si eres de un instituto, un ayuntamiento, una asociación o un centro de juventud y quieres conocernos o llevar un taller a tu grupo, escríbenos. Puedes hacerlo directamente o contestar tres preguntas y abrimos WhatsApp con todo preparado.",
       "directo": {
         "titulo": "Escríbenos directamente",
         "texto": "Por WhatsApp, en rapmasterlab@gmail.com o en Instagram, @rapmasterlab.",
@@ -323,10 +328,10 @@
           "pregunta": "¿Quién nos escribe?",
           "clave": "Soy",
           "opciones": [
-            "Un centro educativo",
+            "Un instituto o colegio",
             "Un ayuntamiento",
-            "Una entidad o asociación",
-            "Un medio de comunicación",
+            "Una asociación o entidad",
+            "Un centro de juventud",
             "Otro"
           ]
         },
