@@ -360,5 +360,6 @@
       }
     ]
   },
-  "cssExtra": ".cq-foto{display:flex;align-items:center;justify-content:center}.cq-foto img{width:80%;height:auto;max-width:420px;object-fit:contain}@media (max-width:860px){.cq-foto{display:none}}"
+  "cssExtra": ".cq-foto{display:flex;align-items:center;justify-content:center}.cq-foto img{width:80%;height:auto;max-width:420px;object-fit:contain}@media (max-width:860px){.cq-foto{display:none}}",
+  "imagenCompartir": "https://adripuntoefe1988.github.io/lanzadera/rap-master-lab/archivos/compartir.jpg"
 }
