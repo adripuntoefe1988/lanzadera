@@ -1,7 +1,7 @@
 {
   "titulo": "Rap Master Lab · Asociación cultural de rap con valores",
   "descripcion": "Asociación cultural que promueve valores a través de talleres de rap: jóvenes que reflexionan, escriben su canción y graban su videoclip.",
-  "_nota": "Web para conocer la labor de la asociación, sus trabajos y contactar. Sin precios ni enfoque comercial (decisión de Adrián, 26/11/2026).",
+  "_nota": "Web para conocer la labor de la asociación, sus trabajos y contactar. Sin precios ni enfoque comercial (decisión de Adrián, 26/11/2026). Pendiente: fotos de VicNW.",
   "tema": "templo",
   "ajustesTema": {
     "--fondo": "#0F0D0D",
@@ -334,12 +334,19 @@
           "ayuda": "Tu nombre, entidad, localidad, el tema que os interesa..."
         }
       ],
-      "foto": "archivos/adri-estudio-vertical-2.webp",
-      "fotoAlt": "AdriPuntoEfe en el estudio"
+      "foto": "archivos/logo-lobo-blanco.webp",
+      "fotoAlt": "Logotipo de Rap Master Lab: lobo con gafas de sol"
     }
   ],
   "pie": {
-    "titular": "Rap Master Lab",
-    "texto": "Asociación sin ánimo de lucro · Alfajarín (Zaragoza)"
-  }
+    "titular": "Asociación Rap Master Lab",
+    "texto": "Alfajarín (Zaragoza)",
+    "enlaces": [
+      {
+        "texto": "Aviso legal",
+        "href": "archivos/aviso-legal.html"
+      }
+    ]
+  },
+  "cssExtra": ".cq-foto{display:flex;align-items:center;justify-content:center}.cq-foto img{width:80%;height:auto;max-width:420px;object-fit:contain}@media (max-width:860px){.cq-foto{display:none}}"
 }
