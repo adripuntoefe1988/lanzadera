@@ -1,0 +1,444 @@
+{
+  "titulo": "Rap Master Lab · Talleres de rap con valores",
+  "descripcion": "Talleres de rap para centros educativos y ayuntamientos: el alumnado reflexiona sobre un tema social, escribe su canción y graba su videoclip.",
+  "_nota": "Primera versión (26/11/2026). Pendientes: fotos de VicNW, número de WhatsApp confirmado, precios sí/no, textos legales con CIF.",
+  "tema": "templo",
+  "ajustesTema": {
+    "--fondo": "#0F0D0D",
+    "--superficie": "#191919",
+    "--superficie-2": "#211E1E",
+    "--linea": "#36312A",
+    "--texto-2": "#B8B0A0",
+    "--acento": "#FFDE59",
+    "--acento-2": "#F0C41F",
+    "--acento-hover": "#FFE680",
+    "--sobre-acento": "#0F0D0D"
+  },
+  "marca": {
+    "nombre": "Rap Master Lab",
+    "etiqueta": "",
+    "logo": "archivos/logo-lobo.webp",
+    "favicon": "archivos/logo-lobo.webp"
+  },
+  "contacto": {
+    "whatsapp": "34657135322",
+    "mensaje": "¡Hola! Vengo de la web de Rap Master Lab y quiero información sobre los talleres.",
+    "email": "rapmasterlab@gmail.com",
+    "telefono": "657 135 322",
+    "instagram": [
+      "rapmasterlab"
+    ]
+  },
+  "navegacion": {
+    "boton": {
+      "texto": "Lleva el taller a tu centro",
+      "seccion": "contacto"
+    }
+  },
+  "extras": {
+    "botonWhatsapp": true
+  },
+  "secciones": [
+    {
+      "tipo": "hero",
+      "antetitulo": "Asociación cultural · Talleres de rap con valores",
+      "titulo": [
+        "Su voz",
+        "también educa.",
+        {
+          "texto": "Del aula a su propia canción.",
+          "acento": true
+        }
+      ],
+      "entradilla": "Talleres de rap para centros educativos, ayuntamientos y entidades. Los chicos y chicas reflexionan sobre un tema social, escriben su canción y graban su propio videoclip.",
+      "foto": "archivos/taller-vicnw.webp",
+      "fotoAlt": "VicNW ayudando a un grupo de alumnos a escribir su letra en clase",
+      "fotoPos": "60% 35%",
+      "botones": [
+        {
+          "texto": "Ver los videoclips",
+          "seccion": "videoclips"
+        },
+        {
+          "texto": "Cómo es el taller",
+          "seccion": "taller",
+          "estilo": "secundario"
+        }
+      ],
+      "datos": [
+        {
+          "valor": "2",
+          "texto": "talleres en 2025"
+        },
+        {
+          "valor": "14",
+          "texto": "jóvenes participantes"
+        },
+        {
+          "valor": "2",
+          "texto": "canciones con videoclip"
+        }
+      ]
+    },
+    {
+      "tipo": "caminos",
+      "id": "empieza",
+      "capitulo": "00 / EMPIEZA POR AQUÍ",
+      "titulo": "¿Desde dónde [[nos escribes?]]",
+      "entradilla": "No hace falta que el grupo sepa nada de rap. Nosotros llevamos el método, la música y el equipo.",
+      "tarjetas": [
+        {
+          "etiqueta": "Centros educativos",
+          "titulo": "Quiero trabajar un tema en clase.",
+          "texto": "Bullying, igualdad, salud mental, convivencia... Lo trabajamos con tu alumnado y termina en una canción suya.",
+          "foto": "archivos/taller-escritura.webp",
+          "fotoAlt": "Alumnado escribiendo en equipo durante un taller",
+          "boton": {
+            "texto": "Ver el taller",
+            "seccion": "taller"
+          }
+        },
+        {
+          "etiqueta": "Ayuntamientos",
+          "titulo": "Busco una actividad para los jóvenes del pueblo.",
+          "texto": "Talleres de verano, semanas culturales o programas de juventud. Ya lo hemos hecho en Pastriz y Alfajarín.",
+          "foto": "archivos/taller-grupo.webp",
+          "fotoAlt": "Foto de grupo al terminar un taller, con las letras en la mano",
+          "fotoPos": "50% 40%",
+          "boton": {
+            "texto": "Ver los resultados",
+            "seccion": "videoclips"
+          }
+        },
+        {
+          "etiqueta": "Entidades sociales",
+          "titulo": "Trabajo con jóvenes y quiero darles voz.",
+          "texto": "Adaptamos la temática y el formato a tu grupo y a tu proyecto.",
+          "foto": "archivos/adri-estudio-horizontal-1.webp",
+          "fotoAlt": "AdriPuntoEfe en el estudio de grabación",
+          "fotoPos": "50% 30%",
+          "boton": {
+            "texto": "Hablemos",
+            "whatsapp": "¡Hola! Trabajo en una entidad con jóvenes y me interesa un taller de Rap Master Lab."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "texto-foto",
+      "id": "quienes",
+      "menu": "Quiénes somos",
+      "capitulo": "01 / QUIÉNES SOMOS",
+      "antetitulo": "La asociación",
+      "titulo": "El rap nació para dar voz. [[Lo llevamos a las aulas.]]",
+      "parrafos": [
+        "Rap Master Lab surge de la necesidad de trasladar los valores de unión, respeto, amor y superación, impresos en el ADN de la cultura del Hip Hop, más allá de los círculos y circuitos convencionales de este género.",
+        "Creemos fielmente en el mensaje transformador de las palabras y en cómo pueden impactar de manera muy positiva en las nuevas generaciones.",
+        "Somos una asociación sin ánimo de lucro con sede en Alfajarín (Zaragoza). Usamos la música, y sobre todo el rap, para fomentar la expresión, la participación y la reflexión sobre cuestiones sociales."
+      ],
+      "cita": "La creación musical como herramienta de expresión, participación y defensa de los derechos.",
+      "foto": "archivos/taller-grupo.webp",
+      "fotoAlt": "Participantes de un taller posando con sus letras junto al equipo de Rap Master Lab",
+      "pieFoto": "Las caras de menores van siempre difuminadas."
+    },
+    {
+      "tipo": "texto-foto",
+      "id": "equipo",
+      "menu": "Equipo",
+      "capitulo": "02 / EL EQUIPO",
+      "antetitulo": "Adrián Franco · AdriPuntoEfe",
+      "titulo": "MC, productor y [[técnico de sonido.]]",
+      "parrafos": [
+        "En activo desde 2008. Como cantante ha sacado 3 discos de estudio y 6 maquetas, y ha pisado escenarios como Zaragoza Ciudad, Territorio Delicias I y II (como organizador), Valencia All Stars y Magdalena HipHop.",
+        "Como productor y técnico ha trabajado con más de un centenar de artistas de toda España y ha editado más de 1.500 canciones desde su estudio, Refuge Sound Record.",
+        "Ha impartido talleres de rap para jóvenes y coordina cursos de DJ y producción musical. En el taller se encarga del proceso de creación, la grabación y el videoclip."
+      ],
+      "fotos": [
+        {
+          "src": "archivos/adri-estudio-vertical-1.webp",
+          "alt": "AdriPuntoEfe de pie en su estudio"
+        },
+        {
+          "src": "archivos/adri-estudio-horizontal-2.webp",
+          "alt": "AdriPuntoEfe sentado en el sofá del estudio",
+          "pos": "40% 40%"
+        }
+      ]
+    },
+    {
+      "tipo": "texto-foto",
+      "invertir": true,
+      "fondo": "igual",
+      "antetitulo": "Víctor Atienza · VicNW",
+      "titulo": "Letras que [[cuentan la realidad.]]",
+      "parrafos": [
+        "Artista zaragozano, conocido por sus letras profundas, que reflejan con dureza algunas realidades. En 2022 su tema **«Leonas»** ganó un concurso del Instituto Aragonés de la Juventud y fue nombrado himno contra la violencia de género en Aragón.",
+        "También es freestyler y ha competido en varias batallas locales.",
+        "Es la persona delegada de protección a la infancia de la asociación."
+      ],
+      "foto": "",
+      "fotoAlt": "FOTO PENDIENTE: VicNW en vertical, buena calidad (con micro o en un taller)"
+    },
+    {
+      "tipo": "pasos",
+      "id": "taller",
+      "menu": "El taller",
+      "capitulo": "03 / MENTES SENSIBLES",
+      "antetitulo": "Cómo es el taller",
+      "titulo": "De la idea [[a la canción publicada.]]",
+      "entradilla": "**Mentes Sensibles** es un proyecto de creación asistida: usamos el rap para trabajar la comunicación, el trabajo en equipo, la iniciativa, el autoconocimiento, la confianza y la autoestima.",
+      "pasos": [
+        {
+          "titulo": "De dónde viene el rap",
+          "texto": "Viajamos al Nueva York de los 70 para entender por qué nació el rap, cómo ha llegado hasta hoy y qué artistas de aquí han cambiado cosas con su mensaje. Desde ahí entramos en la temática."
+        },
+        {
+          "titulo": "Cómo se crea una canción",
+          "texto": "De la idea a la publicación: composición, autoría, derechos de autor y registro de la obra."
+        },
+        {
+          "titulo": "Escriben ellos",
+          "texto": "Tras una demostración de VicNW y AdriPuntoEfe, el grupo escribe en equipos de 5 o 6 y trabaja la voz y la puesta en escena. Unos 100 minutos por grupo."
+        },
+        {
+          "titulo": "Grabación y videoclip",
+          "texto": "En una segunda visita, de unas 3 horas, grabamos la canción y el videoclip. Entre una y otra dejamos un fin de semana para que se aprendan la letra."
+        },
+        {
+          "titulo": "Su canción sale al mundo",
+          "texto": "Mezclamos, masterizamos y montamos el vídeo. El resultado queda para el grupo y para compartirlo como recurso de sensibilización."
+        }
+      ],
+      "boton": {
+        "texto": "Quiero el taller en mi centro",
+        "seccion": "contacto"
+      }
+    },
+    {
+      "tipo": "lista",
+      "id": "tematicas",
+      "capitulo": "04 / LAS TEMÁTICAS",
+      "antetitulo": "Sobre qué escribimos",
+      "titulo": "Temas que [[están en su día a día.]]",
+      "entradilla": "Elegís la temática según lo que necesite el grupo. Lo importante es que piensen, debatan y lo cuenten con sus palabras.",
+      "items": [
+        {
+          "icono": "01",
+          "titulo": "Bullying",
+          "texto": "Qué pasa cuando miramos hacia otro lado."
+        },
+        {
+          "icono": "02",
+          "titulo": "Igualdad entre géneros",
+          "texto": "Y la prevención de la violencia de género."
+        },
+        {
+          "icono": "03",
+          "titulo": "Salud mental",
+          "texto": "Hablar de cómo estamos sin vergüenza."
+        },
+        {
+          "icono": "04",
+          "titulo": "Respeto en la convivencia",
+          "texto": "En clase, en casa y en la calle."
+        },
+        {
+          "icono": "05",
+          "titulo": "Protección a la infancia",
+          "texto": "Sus derechos, contados por ellos."
+        },
+        {
+          "icono": "06",
+          "titulo": "Desigualdad y pobreza",
+          "texto": "Lo que no se ve desde fuera."
+        },
+        {
+          "icono": "07",
+          "titulo": "Respeto a la naturaleza",
+          "texto": "Cuidar lo que tenemos alrededor."
+        },
+        {
+          "icono": "08",
+          "titulo": "Sostenibilidad del planeta",
+          "texto": "Lo que podemos cambiar desde ya."
+        },
+        {
+          "icono": "09",
+          "titulo": "¿Otro tema?",
+          "texto": "Si tu grupo necesita trabajar otra cosa, lo preparamos contigo."
+        }
+      ]
+    },
+    {
+      "tipo": "videos",
+      "id": "videoclips",
+      "menu": "Videoclips",
+      "capitulo": "05 / LOS RESULTADOS",
+      "antetitulo": "Hechos por ellos",
+      "titulo": "No son público. [[Son autores.]]",
+      "entradilla": "Cada canción está escrita íntegramente por los chicos y chicas del taller. Estos son los videoclips de 2025.",
+      "columnas": 2,
+      "videos": [
+        {
+          "youtube": "bxAya_Oe0pI",
+          "titulo": "Violencia de género · Pastriz",
+          "subtitulo": "Julio de 2025 · 8 participantes de 11 a 23 años · Ayuntamiento de Pastriz"
+        },
+        {
+          "youtube": "O5iiuNc1o8Y",
+          "titulo": "Bullying · Alfajarín",
+          "subtitulo": "Noviembre de 2025 · 6 participantes de 8 a 13 años · Otoño Cultural de Alfajarín"
+        }
+      ]
+    },
+    {
+      "tipo": "manifiesto",
+      "capitulo": "06 / LO QUE NOS MUEVE",
+      "antetitulo": "Nuestros valores",
+      "titulo": "Mi voz [[también educa.]]",
+      "frases": [
+        {
+          "fuerte": "Un punto de encuentro de libre expresión.",
+          "texto": "Ponemos en común sentimientos y opiniones y después los plasmamos en el papel. Sin juicios."
+        },
+        {
+          "fuerte": "El equipo antes que el ego.",
+          "texto": "Escriben juntos, se escuchan y se respetan. Eso es parte del taller, no un extra."
+        },
+        {
+          "fuerte": "Un mensaje puede salir del aula.",
+          "texto": "Mostramos el poder de las ideas: una canción hecha en clase puede tener un papel transformador fuera de ella."
+        }
+      ],
+      "cierre": "Igualdad · Respeto · Diversidad · Participación · Pensamiento crítico · Convivencia · Creatividad",
+      "foto": "archivos/mentes-sensibles.webp",
+      "fotoAlt": "Portada del proyecto Mentes Sensibles de Rap Master Lab"
+    },
+    {
+      "tipo": "servicios",
+      "id": "contratar",
+      "capitulo": "07 / LLÉVALO A TU CENTRO",
+      "antetitulo": "Qué incluye",
+      "titulo": "Un taller, una canción [[y un videoclip.]]",
+      "planes": [
+        {
+          "verbo": "Crear",
+          "nombre": "Taller Mentes Sensibles",
+          "tipo": "Taller de escritura + grabación + videoclip",
+          "etiqueta": "Formato completo",
+          "destacado": true,
+          "frase": "El grupo sale con una canción y un videoclip hechos por ellos.",
+          "texto": [
+            "Pensado para grupos de 20 a 25 alumnos. Si hay varios grupos, se pueden hacer varios talleres y un único videoclip final con la mejor canción.",
+            "No hace falta experiencia previa en rap, escritura ni producción. El centro pone altavoces y bolígrafos; el resto lo llevamos nosotros."
+          ],
+          "incluye": [
+            "Sesión de taller de unos 100 minutos por grupo",
+            "Temática a elegir según las necesidades del grupo",
+            "Segunda visita para grabar canción y videoclip",
+            "Mezcla y mastering de la canción",
+            "Grabación y montaje del videoclip",
+            "Actividad exenta de IVA"
+          ],
+          "boton": {
+            "texto": "Pedir el dossier por WhatsApp",
+            "whatsapp": "¡Hola! Me interesa el taller Mentes Sensibles. ¿Me podéis mandar el dossier y las tarifas?"
+          },
+          "alternativa": {
+            "texto": "Prefiero contaros mi caso en el formulario →",
+            "seccion": "contacto"
+          },
+          "nota": "Disponibilidad: lunes y miércoles · Presupuesto según número de grupos"
+        }
+      ]
+    },
+    {
+      "tipo": "faq",
+      "capitulo": "08 / DUDAS",
+      "titulo": "Lo que [[nos suelen preguntar.]]",
+      "preguntas": [
+        {
+          "pregunta": "¿El alumnado tiene que saber rapear?",
+          "respuesta": "No. No hace falta experiencia en rap, en escritura ni en música. Les enseñamos lo necesario y escriben en equipo, así nadie se queda solo frente al papel."
+        },
+        {
+          "pregunta": "¿Cuánto dura y cuántas visitas son?",
+          "respuesta": "Dos visitas. La primera es el taller de escritura, de unos 100 minutos por grupo. La segunda, de unas 3 horas, es para grabar la canción y el videoclip. Lo adaptamos a los horarios del centro."
+        },
+        {
+          "pregunta": "¿Qué tiene que poner el centro?",
+          "respuesta": "Altavoces y bolígrafos. Nosotros llevamos el resto del material de grabación y vídeo."
+        },
+        {
+          "pregunta": "¿Qué pasa con la imagen de los menores?",
+          "respuesta": "Trabajamos siempre con autorizaciones de imagen y difuminamos las caras de los menores en todo el material que se publica. La asociación cuenta con una persona delegada de protección a la infancia."
+        },
+        {
+          "pregunta": "¿Podemos elegir la temática?",
+          "respuesta": "Sí. Nos contáis qué necesita el grupo (bullying, igualdad, salud mental, convivencia...) y preparamos el taller sobre ese tema."
+        },
+        {
+          "pregunta": "¿Qué días podéis venir?",
+          "respuesta": "Ahora mismo, lunes y miércoles. Escríbenos con tiempo y cuadramos las fechas."
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "id": "contacto",
+      "menu": "Contacto",
+      "capitulo": "09 / HABLAMOS",
+      "antetitulo": "Lleva el taller a tu centro",
+      "titulo": "¿Les damos [[un micro?]]",
+      "entradilla": "Contesta cuatro preguntas cortas y abrimos WhatsApp con todo preparado. Si lo tienes claro, escríbenos directamente.",
+      "directo": {
+        "titulo": "¿Ya sabes lo que quieres?",
+        "texto": "Escríbenos y te mandamos el dossier con fechas y tarifas. También en rapmasterlab@gmail.com.",
+        "boton": {
+          "texto": "Abrir WhatsApp",
+          "whatsapp": "¡Hola! He visto la web de Rap Master Lab y quiero información para hacer un taller."
+        }
+      },
+      "mensajeInicio": "¡Hola! Vengo de la web de Rap Master Lab, os cuento:",
+      "preguntas": [
+        {
+          "pregunta": "¿Desde dónde nos escribes?",
+          "clave": "Soy de",
+          "opciones": [
+            "Un centro educativo",
+            "Un ayuntamiento",
+            "Una entidad o asociación",
+            "Otro"
+          ]
+        },
+        {
+          "pregunta": "¿Qué tema os gustaría trabajar?",
+          "clave": "Tema",
+          "opciones": [
+            "Bullying",
+            "Igualdad y violencia de género",
+            "Salud mental",
+            "Convivencia",
+            "Otro / aún no lo sé"
+          ]
+        },
+        {
+          "pregunta": "¿Cuántos grupos y de qué edad?",
+          "clave": "Grupos",
+          "ayuda": "Por ejemplo: 2 grupos de 2º de ESO, unos 25 por grupo"
+        },
+        {
+          "pregunta": "¿Algo más? Nombre del centro, localidad, fechas...",
+          "clave": "Detalles",
+          "ayuda": "IES de..., en Zaragoza, para el segundo trimestre"
+        }
+      ],
+      "foto": "archivos/adri-estudio-vertical-2.webp",
+      "fotoAlt": "AdriPuntoEfe en el estudio"
+    }
+  ],
+  "pie": {
+    "titular": "Rap Master Lab",
+    "texto": "Asociación sin ánimo de lucro · Alfajarín (Zaragoza)"
+  }
+}
