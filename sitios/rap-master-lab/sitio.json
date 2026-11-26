@@ -64,20 +64,6 @@
           "seccion": "quienes",
           "estilo": "secundario"
         }
-      ],
-      "datos": [
-        {
-          "valor": "2",
-          "texto": "talleres en 2025"
-        },
-        {
-          "valor": "14",
-          "texto": "jóvenes participantes"
-        },
-        {
-          "valor": "2",
-          "texto": "canciones con videoclip"
-        }
       ]
     },
     {
@@ -245,13 +231,13 @@
         {
           "youtube": "bxAya_Oe0pI",
           "titulo": "Violencia de género · Pastriz",
-          "subtitulo": "Julio de 2025 · 8 participantes de 11 a 23 años · Ayuntamiento de Pastriz",
+          "subtitulo": "Julio de 2025 · Ayuntamiento de Pastriz",
           "portada": "archivos/videoclip-pastriz.webp"
         },
         {
           "youtube": "O5iiuNc1o8Y",
           "titulo": "Bullying · Alfajarín",
-          "subtitulo": "Noviembre de 2025 · 6 participantes de 8 a 13 años · Otoño Cultural de Alfajarín",
+          "subtitulo": "Noviembre de 2025 · Otoño Cultural de Alfajarín",
           "portada": "archivos/videoclip-alfajarin.webp"
         }
       ]
@@ -290,7 +276,7 @@
         },
         {
           "pregunta": "¿Con qué grupos trabajáis?",
-          "respuesta": "Con grupos de institutos, ayuntamientos, asociaciones y centros de juventud. Hasta ahora hemos trabajado con chicos y chicas de 8 a 23 años, y adaptamos el lenguaje y la dinámica a cada edad."
+          "respuesta": "Con grupos de institutos, ayuntamientos, asociaciones y centros de juventud, desde primaria hasta jóvenes adultos. Adaptamos el lenguaje y la dinámica a cada edad."
         },
         {
           "pregunta": "¿Cuánto dura y cuántas visitas son?",
