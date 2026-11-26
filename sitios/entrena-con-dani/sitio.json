@@ -1,0 +1,162 @@
+{
+  "_nota": "Negocio inventado para enseñar el tema. Las fotos son huecos con la foto que habría que hacer; las reseñas, huecos para reseñas reales.",
+  "titulo": "Entrena con Dani · entrenador personal",
+  "descripcion": "Entrenamiento personal y online para ganar fuerza sin lesiones. Planes a medida y seguimiento semanal.",
+  "tema": "pista",
+  "marca": {
+    "nombre": "Entrena con Dani"
+  },
+  "contacto": {
+    "whatsapp": "34600000000",
+    "mensaje": "¡Hola Dani! Quiero empezar a entrenar.",
+    "instagram": [
+      "ejemplo"
+    ]
+  },
+  "navegacion": {
+    "boton": {
+      "texto": "Clase de prueba",
+      "seccion": "empieza-hoy"
+    }
+  },
+  "secciones": [
+    {
+      "tipo": "hero",
+      "antetitulo": "Entrenador personal · presencial y online",
+      "titulo": [
+        "Más fuerte.",
+        {
+          "texto": "Sin lesiones.",
+          "acento": true
+        }
+      ],
+      "entradilla": "Planes a tu medida, técnica cuidada y alguien que te pregunta cada semana cómo vas.",
+      "fotoAlt": "Foto: entrenando con barra, contraluz",
+      "botones": [
+        {
+          "texto": "Clase de prueba gratis",
+          "seccion": "empieza-hoy"
+        }
+      ],
+      "datos": [
+        {
+          "valor": "12 años",
+          "texto": "entrenando"
+        },
+        {
+          "valor": "300+",
+          "texto": "alumnos"
+        }
+      ]
+    },
+    {
+      "tipo": "manifiesto",
+      "menu": "Método",
+      "titulo": "Mi [[método.]]",
+      "frases": [
+        {
+          "fuerte": "Técnica antes que peso.",
+          "texto": "Lo primero es moverse bien."
+        },
+        {
+          "fuerte": "Constancia antes que intensidad.",
+          "texto": "Tres días a la semana valen más que siete un mes."
+        },
+        {
+          "fuerte": "Medimos todo.",
+          "texto": "Si no se mide, no se mejora."
+        }
+      ],
+      "cierre": "Empieza donde estás."
+    },
+    {
+      "tipo": "servicios",
+      "menu": "Planes",
+      "titulo": "Elige [[tu plan.]]",
+      "planes": [
+        {
+          "verbo": "Base",
+          "nombre": "Online",
+          "frase": "Tu plan en el móvil.",
+          "incluye": [
+            "Plan mensual",
+            "Revisión semanal",
+            "Chat directo"
+          ],
+          "boton": {
+            "texto": "Lo quiero",
+            "whatsapp": "Hola Dani, me interesa el plan online."
+          }
+        },
+        {
+          "verbo": "Pro",
+          "nombre": "Presencial",
+          "frase": "Entrenamos juntos.",
+          "incluye": [
+            "2 sesiones por semana",
+            "Plan de nutrición básico",
+            "Medición mensual"
+          ],
+          "destacado": true,
+          "etiqueta": "Recomendado",
+          "boton": {
+            "texto": "Lo quiero",
+            "whatsapp": "Hola Dani, me interesa el plan presencial."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "faq",
+      "titulo": "Preguntas",
+      "preguntas": [
+        {
+          "pregunta": "¿Necesito experiencia?",
+          "respuesta": "No. Empezamos desde tu nivel."
+        },
+        {
+          "pregunta": "¿Dónde entrenamos?",
+          "respuesta": "En el gimnasio o en tu casa con material básico."
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "id": "empieza-hoy",
+      "titulo": "Tu clase de prueba, [[gratis.]]",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es tu objetivo?",
+          "clave": "Objetivo",
+          "opciones": [
+            "Ganar fuerza",
+            "Perder grasa",
+            "Volver tras una lesión",
+            "Rendir en mi deporte"
+          ]
+        },
+        {
+          "pregunta": "¿Cuántos días puedes entrenar?",
+          "clave": "Días",
+          "opciones": [
+            "1-2",
+            "3",
+            "4 o más"
+          ]
+        },
+        {
+          "pregunta": "¿Presencial u online?",
+          "clave": "Formato",
+          "opciones": [
+            "Presencial",
+            "Online",
+            "No lo sé"
+          ]
+        }
+      ]
+    }
+  ],
+  "pie": {
+    "texto": "Ejemplo de la lanzadera"
+  }
+}

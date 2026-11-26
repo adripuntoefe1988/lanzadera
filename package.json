@@ -1,0 +1,14 @@
+{
+  "name": "lanzadera",
+  "version": "1.0.0",
+  "description": "Lanzadera de webs: una web por negocio a partir de un archivo sitio.json",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "construir": "node lanzar.mjs construir",
+    "ver": "node lanzar.mjs ver",
+    "temas": "node lanzar.mjs temas",
+    "secciones": "node lanzar.mjs secciones"
+  },
+  "engines": { "node": ">=18" }
+}

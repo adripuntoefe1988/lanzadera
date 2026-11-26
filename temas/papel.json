@@ -1,0 +1,32 @@
+{
+  "nombre": "Papel",
+  "descripcion": "Claro y editorial, tinta y azul profundo. Arquitectura, despachos, consultoría, reformas, fotografía.",
+  "modo": "claro",
+  "grano": false,
+  "fuentes": {
+    "google": "family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;600;700;800"
+  },
+  "variables": {
+    "--fondo": "#F6F3EE",
+    "--superficie": "#EEE9E1",
+    "--superficie-2": "#FFFFFF",
+    "--linea": "#DAD3C8",
+    "--texto": "#1A1A1A",
+    "--texto-2": "#5A564F",
+    "--acento": "#1F3A93",
+    "--acento-2": "#1F3A93",
+    "--acento-hover": "#162B6E",
+    "--sobre-acento": "#FFFFFF",
+    "--exito": "#1E8E5A",
+    "--nav-fondo": "rgba(246,243,238,.97)",
+    "--fuente-titulos": "\"Fraunces\",Georgia,serif",
+    "--fuente-texto": "\"Inter\",system-ui,sans-serif",
+    "--titulos-peso": "500",
+    "--titulos-espaciado": "-.015em",
+    "--titulos-mayus": "none",
+    "--radio": "4px",
+    "--radio-btn": "999px",
+    "--grano": "0",
+    "--ancho": "1180px"
+  }
+}

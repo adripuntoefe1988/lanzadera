@@ -1,0 +1,32 @@
+{
+  "nombre": "Pista",
+  "descripcion": "Enérgico y deportivo, grafito y lima eléctrica. Gimnasios, entrenadores, clubes, academias de baile, eventos.",
+  "modo": "oscuro",
+  "grano": false,
+  "fuentes": {
+    "google": "family=Bebas+Neue&family=Barlow:wght@400;600;700;800"
+  },
+  "variables": {
+    "--fondo": "#121314",
+    "--superficie": "#1A1B1D",
+    "--superficie-2": "#222326",
+    "--linea": "#33353A",
+    "--texto": "#F4F5F0",
+    "--texto-2": "#A7AAA3",
+    "--acento": "#C6F432",
+    "--acento-2": "#C6F432",
+    "--acento-hover": "#B3E01F",
+    "--sobre-acento": "#111111",
+    "--exito": "#C6F432",
+    "--nav-fondo": "rgba(18,19,20,.97)",
+    "--fuente-titulos": "\"Bebas Neue\",Impact,sans-serif",
+    "--fuente-texto": "\"Barlow\",system-ui,sans-serif",
+    "--titulos-peso": "400",
+    "--titulos-espaciado": ".02em",
+    "--titulos-mayus": "uppercase",
+    "--radio": "6px",
+    "--radio-btn": "6px",
+    "--grano": "0",
+    "--ancho": "1180px"
+  }
+}

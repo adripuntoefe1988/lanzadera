@@ -1,0 +1,142 @@
+{
+  "_nota": "Negocio inventado para enseñar el tema. Las fotos son huecos con la foto que habría que hacer; las reseñas, huecos para reseñas reales.",
+  "titulo": "Medianoche · peluquería y color",
+  "descripcion": "Salón de peluquería especializado en color, mechas y cortes a medida. Cita previa.",
+  "tema": "noche",
+  "marca": {
+    "nombre": "Medianoche",
+    "etiqueta": "SALÓN"
+  },
+  "contacto": {
+    "whatsapp": "34600000000",
+    "mensaje": "Hola, quería pedir cita.",
+    "instagram": [
+      "ejemplo"
+    ]
+  },
+  "navegacion": {
+    "boton": {
+      "texto": "Reservar",
+      "whatsapp": "Hola, quería reservar cita."
+    }
+  },
+  "extras": {
+    "entrada": {
+      "etiqueta": "DESDE 2014",
+      "titulo": "Medianoche",
+      "subtitulo": "Peluquería y color",
+      "boton": "Entrar"
+    }
+  },
+  "secciones": [
+    {
+      "tipo": "hero",
+      "antetitulo": "Peluquería y color · con cita",
+      "titulo": [
+        "El color que",
+        {
+          "texto": "te imaginas.",
+          "acento": true
+        }
+      ],
+      "entradilla": "Diagnóstico del cabello, técnica a medida y productos que cuidan.",
+      "fotoAlt": "Foto: melena con mechas a contraluz",
+      "botones": [
+        {
+          "texto": "Reservar por WhatsApp",
+          "whatsapp": "Hola, quería reservar cita."
+        }
+      ]
+    },
+    {
+      "tipo": "comparador",
+      "menu": "Trabajos",
+      "modo": "imagen",
+      "titulo": "Antes [[y después.]]",
+      "items": [
+        {
+          "titulo": "Balayage",
+          "alt": "Balayage"
+        },
+        {
+          "titulo": "Corte bob",
+          "alt": "Corte"
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "menu": "Servicios",
+      "titulo": "Servicios",
+      "items": [
+        {
+          "titulo": "Color y mechas",
+          "texto": "Balayage, babylights, corrección de color."
+        },
+        {
+          "titulo": "Corte",
+          "texto": "Estudio de rostro y estilo."
+        },
+        {
+          "titulo": "Tratamientos",
+          "texto": "Hidratación y reconstrucción."
+        },
+        {
+          "titulo": "Novias",
+          "texto": "Prueba y día de la boda."
+        }
+      ]
+    },
+    {
+      "tipo": "galeria",
+      "titulo": "El salón",
+      "fotos": [
+        {
+          "alt": "Foto: tocadores",
+          "grande": true
+        },
+        {
+          "alt": "Foto: lavacabezas"
+        },
+        {
+          "alt": "Foto: productos"
+        },
+        {
+          "alt": "Foto: recepción"
+        },
+        {
+          "alt": "Foto: detalle de color"
+        }
+      ]
+    },
+    {
+      "tipo": "ubicacion",
+      "titulo": "Visítanos",
+      "direccion": "Calle Ejemplo 5",
+      "horario": [
+        {
+          "dias": "Martes a viernes",
+          "horas": "10:00 – 20:00"
+        },
+        {
+          "dias": "Sábados",
+          "horas": "9:00 – 14:00"
+        }
+      ],
+      "mapa": "https://maps.google.com"
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Tu próxima cita, [[a un mensaje.]]",
+      "botones": [
+        {
+          "texto": "Reservar",
+          "whatsapp": "Hola, quería reservar cita."
+        }
+      ]
+    }
+  ],
+  "pie": {
+    "texto": "Ejemplo de la lanzadera"
+  }
+}

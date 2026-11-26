@@ -1,0 +1,32 @@
+{
+  "nombre": "Clinica",
+  "descripcion": "Limpio y sereno, blanco y verde azulado. Fisioterapia, dentistas, psicología, nutrición, centros de salud.",
+  "modo": "claro",
+  "grano": false,
+  "fuentes": {
+    "google": "family=Manrope:wght@400;600;700;800"
+  },
+  "variables": {
+    "--fondo": "#FFFFFF",
+    "--superficie": "#F1F6F6",
+    "--superficie-2": "#FFFFFF",
+    "--linea": "#DCE7E7",
+    "--texto": "#11272B",
+    "--texto-2": "#4D6266",
+    "--acento": "#0F766E",
+    "--acento-2": "#0F766E",
+    "--acento-hover": "#0B5A54",
+    "--sobre-acento": "#FFFFFF",
+    "--exito": "#0F766E",
+    "--nav-fondo": "rgba(255,255,255,.97)",
+    "--fuente-titulos": "\"Manrope\",system-ui,sans-serif",
+    "--fuente-texto": "\"Manrope\",system-ui,sans-serif",
+    "--titulos-peso": "800",
+    "--titulos-espaciado": "-.025em",
+    "--titulos-mayus": "none",
+    "--radio": "16px",
+    "--radio-btn": "12px",
+    "--grano": "0",
+    "--ancho": "1180px"
+  }
+}

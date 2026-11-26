@@ -1,0 +1,32 @@
+{
+  "nombre": "Templo",
+  "descripcion": "Oscuro y potente, rojo fuego. El estilo de Refuge Sound. Música, tatuajes, barberías, boxeo, marcas con carácter.",
+  "modo": "oscuro",
+  "grano": true,
+  "fuentes": {
+    "google": "family=Anton&family=Montserrat:wght@400;600;700;800"
+  },
+  "variables": {
+    "--fondo": "#0E0E0E",
+    "--superficie": "#141213",
+    "--superficie-2": "#1B1819",
+    "--linea": "#2E2829",
+    "--texto": "#F5F5F5",
+    "--texto-2": "#ADA5A6",
+    "--acento": "#C8102E",
+    "--acento-2": "#F0475F",
+    "--acento-hover": "#E0152F",
+    "--sobre-acento": "#FFFFFF",
+    "--exito": "#00E05A",
+    "--nav-fondo": "rgba(12,10,11,.97)",
+    "--fuente-titulos": "\"Anton\",Impact,\"Arial Narrow Bold\",sans-serif",
+    "--fuente-texto": "\"Montserrat\",\"Helvetica Neue\",Arial,sans-serif",
+    "--titulos-peso": "400",
+    "--titulos-espaciado": ".01em",
+    "--titulos-mayus": "uppercase",
+    "--radio": "2px",
+    "--radio-btn": "2px",
+    "--grano": ".07",
+    "--ancho": "1180px"
+  }
+}

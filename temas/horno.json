@@ -1,0 +1,32 @@
+{
+  "nombre": "Horno",
+  "descripcion": "Cálido y artesano, crema y terracota. Panaderías, restaurantes, cafeterías, productos locales, casas rurales.",
+  "modo": "claro",
+  "grano": false,
+  "fuentes": {
+    "google": "family=DM+Serif+Display&family=DM+Sans:wght@400;600;700;800"
+  },
+  "variables": {
+    "--fondo": "#FBF5EC",
+    "--superficie": "#F3E8D8",
+    "--superficie-2": "#FFFDF8",
+    "--linea": "#E5D5BE",
+    "--texto": "#2B1D14",
+    "--texto-2": "#6B5646",
+    "--acento": "#B4532A",
+    "--acento-2": "#9A4320",
+    "--acento-hover": "#963F1C",
+    "--sobre-acento": "#FFFFFF",
+    "--exito": "#4E7A3A",
+    "--nav-fondo": "rgba(251,245,236,.97)",
+    "--fuente-titulos": "\"DM Serif Display\",Georgia,serif",
+    "--fuente-texto": "\"DM Sans\",system-ui,sans-serif",
+    "--titulos-peso": "400",
+    "--titulos-espaciado": "0",
+    "--titulos-mayus": "none",
+    "--radio": "14px",
+    "--radio-btn": "999px",
+    "--grano": "0",
+    "--ancho": "1180px"
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "_ayuda": "Rellena este archivo y ejecuta: node lanzar.mjs ver <slug>. Borra las secciones que no uses y cambia el orden moviendo bloques. Catálogo completo de campos en docs/SECCIONES.md.",
+  "titulo": "Nombre del negocio · lo que hace",
+  "descripcion": "Una frase de 150 caracteres que diga qué haces, para quién y dónde. Sale en Google y en WhatsApp al compartir.",
+  "tema": "papel",
+  "ajustesTema": {},
+  "marca": {
+    "nombre": "Nombre",
+    "etiqueta": "",
+    "logo": "",
+    "favicon": ""
+  },
+  "contacto": {
+    "whatsapp": "34600000000",
+    "mensaje": "¡Hola! Vengo de vuestra web.",
+    "email": "",
+    "telefono": "",
+    "instagram": []
+  },
+  "navegacion": {
+    "boton": {
+      "texto": "Pide información",
+      "seccion": "contacto"
+    }
+  },
+  "extras": {
+    "botonWhatsapp": true
+  },
+  "secciones": [
+    {
+      "tipo": "hero",
+      "antetitulo": "Qué eres · dónde",
+      "titulo": [
+        "Frase corta que",
+        "dice lo que",
+        "consigue el cliente.",
+        {
+          "texto": "Remate con acento.",
+          "acento": true
+        }
+      ],
+      "entradilla": "Dos líneas: quién eres, a quién ayudas y por qué tú.",
+      "fotoAlt": "Foto: tú trabajando, luz buena, mirando al trabajo",
+      "botones": [
+        {
+          "texto": "Llamada a la acción",
+          "seccion": "contacto"
+        },
+        {
+          "texto": "Ver trabajos",
+          "seccion": "trabajos",
+          "estilo": "secundario"
+        }
+      ]
+    },
+    {
+      "tipo": "caminos",
+      "menu": "Empieza",
+      "titulo": "¿Qué necesitas? [[Empieza por aquí.]]",
+      "tarjetas": [
+        {
+          "etiqueta": "Opción 1",
+          "titulo": "Necesidad del cliente tipo 1",
+          "texto": "Qué le ofreces.",
+          "fotoAlt": "Foto relacionada",
+          "boton": {
+            "texto": "Ver cómo",
+            "seccion": "servicios"
+          }
+        },
+        {
+          "etiqueta": "Opción 2",
+          "titulo": "Necesidad del cliente tipo 2",
+          "texto": "Qué le ofreces.",
+          "fotoAlt": "Foto relacionada",
+          "boton": {
+            "texto": "Ver cómo",
+            "seccion": "servicios"
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "texto-foto",
+      "menu": "Quién soy",
+      "antetitulo": "Quién soy",
+      "titulo": "Tu historia en una frase. [[Con acento.]]",
+      "parrafos": [
+        "Cómo empezaste.",
+        "Qué te hace distinto.",
+        "Qué se lleva el cliente."
+      ],
+      "firma": "Tu nombre",
+      "fotoAlt": "Foto: retrato natural"
+    },
+    {
+      "tipo": "pasos",
+      "titulo": "Cómo [[trabajamos.]]",
+      "pasos": [
+        {
+          "titulo": "Hablamos",
+          "texto": "Qué pasa en el primer contacto."
+        },
+        {
+          "titulo": "Lo hacemos",
+          "texto": "Cómo es el trabajo."
+        },
+        {
+          "titulo": "Te lo llevas",
+          "texto": "Qué recibe y cuándo."
+        }
+      ]
+    },
+    {
+      "tipo": "testimonios",
+      "menu": "Opiniones",
+      "titulo": "Lo que dicen [[nuestros clientes.]]",
+      "citas": [
+        {
+          "frase": "Aquí va una frase de un cliente real.",
+          "nombre": "Nombre real",
+          "rol": "Qué contrató"
+        }
+      ]
+    },
+    {
+      "tipo": "servicios",
+      "id": "servicios",
+      "menu": "Servicios",
+      "titulo": "Elige [[cómo empezamos.]]",
+      "planes": [
+        {
+          "nombre": "Servicio principal",
+          "tipo": "Qué incluye en corto",
+          "frase": "Promesa en una línea.",
+          "incluye": [
+            "Punto 1",
+            "Punto 2"
+          ],
+          "destacado": true,
+          "etiqueta": "El más pedido",
+          "boton": {
+            "texto": "Consultar por WhatsApp",
+            "whatsapp": "¡Hola! Me interesa el servicio principal."
+          },
+          "alternativa": {
+            "texto": "Prefiero el formulario →",
+            "seccion": "contacto"
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "faq",
+      "titulo": "Preguntas [[frecuentes.]]",
+      "preguntas": [
+        {
+          "pregunta": "¿Pregunta que frena a los clientes?",
+          "respuesta": "Respuesta clara."
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "id": "contacto",
+      "menu": "Contacto",
+      "titulo": "¿Hablamos? [[Cuéntanos.]]",
+      "directo": {
+        "titulo": "¿Lo tienes claro?",
+        "texto": "Escríbenos directamente.",
+        "boton": {
+          "texto": "Abrir WhatsApp"
+        }
+      },
+      "preguntas": [
+        {
+          "pregunta": "¿Qué necesitas?",
+          "clave": "Necesito",
+          "opciones": [
+            "Opción A",
+            "Opción B",
+            "Otra cosa"
+          ]
+        },
+        {
+          "pregunta": "¿Para cuándo?",
+          "clave": "Cuándo",
+          "opciones": [
+            "Cuanto antes",
+            "Este mes",
+            "Me estoy informando"
+          ]
+        },
+        {
+          "pregunta": "¿Algo más?",
+          "clave": "Detalles",
+          "ayuda": "Cuéntanos lo que quieras"
+        }
+      ]
+    }
+  ],
+  "pie": {
+    "titular": "Nombre legal o comercial",
+    "texto": "Ciudad"
+  }
+}

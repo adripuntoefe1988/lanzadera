@@ -1,0 +1,733 @@
+{
+  "titulo": "AdriPuntoEfe · Refuge Sound Record",
+  "descripcion": "Grabación, mezcla y mastering de rap y música urbana en Refuge Sound Record (Zaragoza). Que suene como tiene que sonar.",
+  "_nota": "Ejemplo: la web de Refuge reconstruida con la lanzadera, para comprobar que el motor cubre todo lo que tiene la web real.",
+  "tema": "templo",
+  "marca": {
+    "nombre": "AdriPuntoEfe",
+    "etiqueta": "REC",
+    "favicon": "archivos/favicon-refuge.svg"
+  },
+  "contacto": {
+    "whatsapp": "34657135322",
+    "mensaje": "¡Hola Adri! Vengo de tu web.",
+    "instagram": [
+      "adripuntoefe",
+      "refugesound"
+    ]
+  },
+  "navegacion": {
+    "boton": {
+      "texto": "Cuéntame tu idea",
+      "seccion": "contacto"
+    }
+  },
+  "extras": {
+    "musica": {
+      "archivo": "archivos/audio/ambiente.mp3",
+      "titulo": "Lofi del templo",
+      "volumen": 0.35
+    },
+    "entrada": {
+      "etiqueta": "● REC",
+      "titulo": "ADRIPUNTOEFE",
+      "subtitulo": "Refuge Sound Record",
+      "boton": "Entra al templo"
+    }
+  },
+  "secciones": [
+    {
+      "tipo": "hero",
+      "antetitulo": "Artista y productor · Refuge Sound Record",
+      "titulo": [
+        "Saca lo que",
+        "llevas dentro.",
+        {
+          "texto": "Que suene como tiene que sonar.",
+          "acento": true
+        }
+      ],
+      "entradilla": "Soy Adri. Desde 2012 grabo, mezclo y masterizo a artistas que tienen algo que contar, ya sea su primera canción o su próximo proyecto.",
+      "foto": "archivos/s-hero.webp",
+      "fotoAlt": "Adri en la mesa de mezclas de Refuge",
+      "fotoPos": "50% 25%",
+      "botones": [
+        {
+          "texto": "Descubre cómo grabamos",
+          "seccion": "empieza"
+        },
+        {
+          "texto": "Escucha el antes y después",
+          "seccion": "sonido",
+          "estilo": "secundario"
+        }
+      ]
+    },
+    {
+      "tipo": "caminos",
+      "id": "empieza",
+      "capitulo": "00 / EMPIEZA POR AQUÍ",
+      "titulo": "Dime dónde estás. [[Hacemos que suene.]]",
+      "entradilla": "No hace falta que sepas de técnica ni que lo tengas todo resuelto.",
+      "tarjetas": [
+        {
+          "etiqueta": "Una canción",
+          "titulo": "Tengo un tema en la cabeza.",
+          "texto": "Grabación de voces, mezcla y mastering con tu instrumental.",
+          "foto": "archivos/c-cabina.webp",
+          "boton": {
+            "texto": "Ver cómo",
+            "seccion": "servicios"
+          }
+        },
+        {
+          "etiqueta": "Un proyecto",
+          "titulo": "Quiero crear algo más grande.",
+          "texto": "EP, disco y una visión musical de principio a fin.",
+          "foto": "archivos/c-proyecto.webp",
+          "boton": {
+            "texto": "Ver cómo",
+            "seccion": "servicios"
+          }
+        },
+        {
+          "etiqueta": "Mi camino",
+          "titulo": "Quiero dar rumbo a mi música.",
+          "texto": "Mentoría, identidad y preparación de lanzamientos.",
+          "foto": "archivos/c-camino.webp",
+          "boton": {
+            "texto": "Hablemos",
+            "whatsapp": "¡Hola Adri! Quiero dar rumbo a mi música."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "texto-foto",
+      "id": "quien",
+      "menu": "Quién soy",
+      "capitulo": "01 / LA HISTORIA",
+      "antetitulo": "Quién soy",
+      "titulo": "La música me dio un rumbo. [[Ahora te ayudo a encontrar el tuyo.]]",
+      "parrafos": [
+        "Era un chaval bastante perdido que se pasaba seis horas al día escuchando rap. La música me acompañó en los momentos difíciles y, cuando empecé a escribir mis propias canciones, descubrí que podía sacar todo lo que llevaba dentro.",
+        "Empecé desde cero y por mi cuenta: aprendí a producir para tener mis propios beats y aprendí sonido para sonar bien. Grababa en mi cuarto y los artistas llegaron solos, sin anuncios, por los resultados. Después levanté Refuge con mis manos, en cuatro meses de obras.",
+        "Sigo siendo aquel chaval que se emociona con una canción, así que conozco los dos lados del cristal. Si vienes con actitud, te acompaño, empieces hoy o lleves años."
+      ],
+      "firma": "AdriPuntoEfe",
+      "fotos": [
+        {
+          "src": "archivos/s-retrato.webp",
+          "alt": "Retrato de Adri"
+        },
+        {
+          "src": "archivos/s-capucha.webp",
+          "alt": "Adri con capucha en el estudio"
+        }
+      ]
+    },
+    {
+      "tipo": "manifiesto",
+      "capitulo": "02 / LA FILOSOFÍA",
+      "antetitulo": "Manifiesto",
+      "titulo": "No dejes de ser [[tú.]]",
+      "frases": [
+        {
+          "fuerte": "De pequeños creamos sin pedir permiso.",
+          "texto": "Después crecemos y empezamos a silenciar a ese niño rebelde que solo quería expresarse."
+        },
+        {
+          "fuerte": "El éxito no tiene una única forma.",
+          "texto": "Puedes soñar con llenar estadios o querer terminar esa canción que llevas tanto tiempo imaginando."
+        },
+        {
+          "fuerte": "Lo importante es que te represente.",
+          "texto": "Mi trabajo es que tu música suene como tú, no como otro."
+        }
+      ],
+      "foto": "archivos/logo-pared.webp",
+      "fotoAlt": "Logo de Refuge en la pared"
+    },
+    {
+      "tipo": "pasos",
+      "capitulo": "03 / EL OFICIO",
+      "antetitulo": "Cómo trabajo",
+      "titulo": "El oficio de [[toda una vida.]]",
+      "pasos": [
+        {
+          "titulo": "El oído",
+          "texto": "Escucho esta música desde los 12 años. Capto al momento lo que tienes en la cabeza, aunque no sepas explicarlo con palabras técnicas."
+        },
+        {
+          "titulo": "Grabo pensando en la mezcla",
+          "texto": "Desde la primera toma sé qué pistas necesita tu tema: dobles, adlibs, coros. Te explico el porqué de cada cosa."
+        },
+        {
+          "titulo": "Construimos en directo",
+          "texto": "Probamos ideas en tiempo real, contigo al lado. El tema crece en la sesión, no en un correo una semana después."
+        }
+      ]
+    },
+    {
+      "tipo": "comparador",
+      "id": "sonido",
+      "menu": "Antes y después",
+      "modo": "audio",
+      "capitulo": "04 / EL SONIDO",
+      "antetitulo": "Antes y después",
+      "titulo": "Escucha [[la diferencia.]]",
+      "entradilla": "El mismo fragmento, antes y después de pasar por mis manos. Pulsa play y cambia de versión sin cortar la reproducción.",
+      "etiquetas": [
+        "Antes",
+        "Mezcla y master"
+      ],
+      "items": [
+        {
+          "titulo": "En la acera",
+          "subtitulo": "GGB · mezcla y master en Refuge",
+          "antes": "archivos/audio/tema1-antes.mp3",
+          "despues": "archivos/audio/tema1-master.mp3"
+        },
+        {
+          "titulo": "Pretensiones",
+          "subtitulo": "Antígona y Karuma · producción, mezcla y master",
+          "antes": "archivos/audio/tema2-antes.mp3",
+          "despues": "archivos/audio/tema2-master.mp3"
+        },
+        {
+          "titulo": "Palermo",
+          "subtitulo": "Flako Fabor · mezcla y master en Refuge",
+          "antes": "archivos/audio/tema3-antes.mp3",
+          "despues": "archivos/audio/tema3-master.mp3"
+        }
+      ],
+      "consejo": "Escúchalo con auriculares o en un buen altavoz para notar la diferencia de verdad."
+    },
+    {
+      "tipo": "testimonios",
+      "capitulo": "05 / LAS PERSONAS",
+      "antetitulo": "Han pasado por el templo",
+      "titulo": "Entran nerviosos. [[Salen flipando.]]",
+      "citas": [
+        {
+          "frase": "Implicación en cada proyecto y resultados de calidad excelente en la mezcla y máster.",
+          "completa": "Un lugar acogedor y bien acondicionado, con un trato tanto humano como profesional. Implicación en cada proyecto y resultados de calidad excelente en la mezcla y máster, tu canción sonará potente y limpia. 100% recomendable.",
+          "nombre": "Mahatma Gyn",
+          "rol": "Naviboom solitario",
+          "foto": "archivos/t-mahatma-gin.webp"
+        },
+        {
+          "frase": "Supo entender perfectamente lo que buscaba para mi música. El resultado final superó mis expectativas.",
+          "nombre": "Gaby",
+          "rol": "Repetirá en próximos proyectos",
+          "foto": "archivos/t-artista-2.webp"
+        },
+        {
+          "frase": "El mejor productor y las ediciones están otro level.",
+          "nombre": "El Fara",
+          "rol": "Grabó en la cabina de Refuge",
+          "foto": "archivos/t-artista-3.webp"
+        },
+        {
+          "frase": "Puede guiarte en cualquier estilo que quieras trabajar.",
+          "nombre": "Soul SKV",
+          "rol": "Se vale soñar",
+          "foto": "archivos/t-soul-skv.webp"
+        }
+      ]
+    },
+    {
+      "tipo": "videos",
+      "id": "testimonios-video",
+      "titulo": "Contado [[por ellos.]]",
+      "entradilla": "Artistas que han grabado en Refuge cuentan cómo fue la experiencia, sin guion.",
+      "visibles": 6,
+      "textoVerMas": "Ver los 17 testimonios",
+      "videos": [
+        {
+          "youtube": "5-DtNXFlmWo",
+          "titulo": "Harold Real",
+          "subtitulo": "Testimonio en vídeo",
+          "portada": "archivos/testimonios/harold-real.webp"
+        },
+        {
+          "youtube": "dOY_tbsyaeA",
+          "titulo": "El Fara",
+          "subtitulo": "Testimonio en vídeo",
+          "portada": "archivos/testimonios/el-fara.webp"
+        },
+        {
+          "youtube": "_dI4wtKsxys",
+          "titulo": "Mahatma Gyn",
+          "subtitulo": "Testimonio en vídeo",
+          "portada": "archivos/testimonios/mahatma-gyn.webp"
+        },
+        {
+          "youtube": "PaKxbPbWdbQ",
+          "titulo": "Soul SKV",
+          "subtitulo": "Testimonio en vídeo",
+          "portada": "archivos/testimonios/soul-skv.webp"
+        },
+        {
+          "youtube": "-kWqFnyKUKw",
+          "titulo": "Isaac",
+          "subtitulo": "Al Son de Kayma · Testimonio en vídeo",
+          "portada": "archivos/testimonios/isaac.webp"
+        },
+        {
+          "youtube": "LP4_TOH7VDY",
+          "titulo": "Rady",
+          "subtitulo": "Testimonio en vídeo",
+          "portada": "archivos/testimonios/rady.webp"
+        },
+        {
+          "youtube": "iHYBe3B1uXc",
+          "titulo": "Welcom Style",
+          "subtitulo": "Testimonio en vídeo",
+          "portada": "archivos/testimonios/welcom-style.webp"
+        },
+        {
+          "youtube": "J3NNqA6WEGs",
+          "titulo": "Chatin",
+          "subtitulo": "Testimonio en vídeo",
+          "portada": "archivos/testimonios/chatin.webp"
+        },
+        {
+          "youtube": "8I8prYhl5VE",
+          "titulo": "Delacrestta",
+          "subtitulo": "Testimonio en vídeo",
+          "portada": "archivos/testimonios/delacrestta.webp"
+        },
+        {
+          "youtube": "LobfK4wfWQI",
+          "titulo": "Martin",
+          "subtitulo": "El Gary Crew · Testimonio en vídeo",
+          "portada": "archivos/testimonios/martin.webp"
+        },
+        {
+          "youtube": "H7_87JfbA8w",
+          "titulo": "Salaver",
+          "subtitulo": "Testimonio en vídeo",
+          "portada": "archivos/testimonios/salaver.webp"
+        },
+        {
+          "youtube": "p2oK0SU4HsI",
+          "titulo": "Salvatore",
+          "subtitulo": "Testimonio en vídeo",
+          "portada": "archivos/testimonios/salvatore.webp"
+        },
+        {
+          "youtube": "pcOflMmlRVg",
+          "titulo": "Samuel Rios",
+          "subtitulo": "Testimonio en vídeo",
+          "portada": "archivos/testimonios/samuel-rios.webp"
+        },
+        {
+          "youtube": "nLnhMF9z5fQ",
+          "titulo": "Sheva",
+          "subtitulo": "Testimonio en vídeo",
+          "portada": "archivos/testimonios/sheva.webp"
+        },
+        {
+          "youtube": "O3Qg3GzRfx8",
+          "titulo": "Ssaakee",
+          "subtitulo": "Testimonio en vídeo",
+          "portada": "archivos/testimonios/ssaakee.webp"
+        },
+        {
+          "youtube": "3CfDtOpHclE",
+          "titulo": "Trahhco Rapsoda",
+          "subtitulo": "Testimonio en vídeo",
+          "portada": "archivos/testimonios/trahhco-rapsoda.webp"
+        },
+        {
+          "youtube": "HjY9elmbMzE",
+          "titulo": "Vic NW",
+          "subtitulo": "Testimonio en vídeo",
+          "portada": "archivos/testimonios/vic-nw.webp"
+        }
+      ]
+    },
+    {
+      "tipo": "resenas",
+      "nota": "4,9",
+      "fuente": "Google",
+      "total": 65,
+      "enlace": "https://www.google.com/maps?cid=7348037294644583722",
+      "titulo": "Lo que dicen [[en Google.]]",
+      "capturas": [
+        "archivos/resenas/resena-01.webp",
+        "archivos/resenas/resena-02.webp",
+        "archivos/resenas/resena-03.webp",
+        "archivos/resenas/resena-04.webp",
+        "archivos/resenas/resena-05.webp",
+        "archivos/resenas/resena-06.webp",
+        "archivos/resenas/resena-07.webp",
+        "archivos/resenas/resena-08.webp",
+        "archivos/resenas/resena-09.webp",
+        "archivos/resenas/resena-10.webp",
+        "archivos/resenas/resena-11.webp",
+        "archivos/resenas/resena-12.webp",
+        "archivos/resenas/resena-13.webp",
+        "archivos/resenas/resena-14.webp",
+        "archivos/resenas/resena-15.webp",
+        "archivos/resenas/resena-16.webp",
+        "archivos/resenas/resena-17.webp",
+        "archivos/resenas/resena-18.webp",
+        "archivos/resenas/resena-19.webp",
+        "archivos/resenas/resena-20.webp",
+        "archivos/resenas/resena-21.webp",
+        "archivos/resenas/resena-22.webp",
+        "archivos/resenas/resena-23.webp",
+        "archivos/resenas/resena-24.webp",
+        "archivos/resenas/resena-25.webp",
+        "archivos/resenas/resena-26.webp",
+        "archivos/resenas/resena-27.webp",
+        "archivos/resenas/resena-28.webp",
+        "archivos/resenas/resena-29.webp",
+        "archivos/resenas/resena-30.webp",
+        "archivos/resenas/resena-31.webp",
+        "archivos/resenas/resena-32.webp",
+        "archivos/resenas/resena-33.webp",
+        "archivos/resenas/resena-34.webp",
+        "archivos/resenas/resena-35.webp",
+        "archivos/resenas/resena-36.webp",
+        "archivos/resenas/resena-37.webp",
+        "archivos/resenas/resena-38.webp",
+        "archivos/resenas/resena-40.webp",
+        "archivos/resenas/resena-41.webp",
+        "archivos/resenas/resena-42.webp",
+        "archivos/resenas/resena-43.webp",
+        "archivos/resenas/resena-44.webp",
+        "archivos/resenas/resena-45.webp",
+        "archivos/resenas/resena-46.webp"
+      ],
+      "pie": "65 reseñas reales de Google, todas de 5 estrellas. Pulsa una para verla completa."
+    },
+    {
+      "tipo": "videos",
+      "id": "temas",
+      "menu": "Temas",
+      "capitulo": "06 / LOS TRABAJOS",
+      "antetitulo": "Ha salido del templo",
+      "titulo": "Temas que [[ya suenan.]]",
+      "visibles": 9,
+      "videos": [
+        {
+          "youtube": "LVLcuEL-q_A",
+          "titulo": "¿Lo has escuchado?",
+          "subtitulo": "Welcom Style",
+          "distintivo": "Prod. AdriPuntoEfe"
+        },
+        {
+          "youtube": "UBnPK0q84V8",
+          "titulo": "Limón y sal",
+          "subtitulo": "Manu Haller · NPC Vol. II",
+          "distintivo": "Prod. AdriPuntoEfe"
+        },
+        {
+          "youtube": "id_v-ehZguE",
+          "titulo": "El Faro",
+          "subtitulo": "Ríos de Tinta Turbia ft. Lázaro TRV",
+          "distintivo": ""
+        },
+        {
+          "youtube": "4H1FZ8CKv-4",
+          "titulo": "Chanchullos",
+          "subtitulo": "FurElGuti",
+          "distintivo": "Prod. AdriPuntoEfe"
+        },
+        {
+          "youtube": "iQ8lXJhrlp4",
+          "titulo": "Mars",
+          "subtitulo": "Ossian con ElAitor",
+          "distintivo": ""
+        },
+        {
+          "youtube": "weNmu3TM__g",
+          "titulo": "Que ya llegará",
+          "subtitulo": "Sheva Shevchenko · Prod. Príncipe Palanca",
+          "distintivo": ""
+        },
+        {
+          "youtube": "8CjKQdSvym4",
+          "titulo": "Bajo presión",
+          "subtitulo": "Lázaro TRV",
+          "distintivo": ""
+        },
+        {
+          "youtube": "MfSayllr4tQ",
+          "titulo": "Llámanos Jambos",
+          "subtitulo": "Jodidos Jambos",
+          "distintivo": ""
+        },
+        {
+          "youtube": "6XsFtoAbWSk",
+          "titulo": "La petite mort",
+          "subtitulo": "Manu Haller ft. Itziar",
+          "distintivo": ""
+        },
+        {
+          "youtube": "c93KjmKFl-Y",
+          "titulo": "Caravana",
+          "subtitulo": "Sheva Shevchenko",
+          "distintivo": ""
+        },
+        {
+          "youtube": "iDbKDYqZs54",
+          "titulo": "Lírica severa",
+          "subtitulo": "Kados Mansalva",
+          "distintivo": ""
+        },
+        {
+          "youtube": "Id9GXQNGmx0",
+          "titulo": "Katharsis",
+          "subtitulo": "Cecuene",
+          "distintivo": ""
+        },
+        {
+          "youtube": "9YUvvpe0GL0",
+          "titulo": "Porque sonreír",
+          "subtitulo": "Ríos de Tinta Turbia",
+          "distintivo": "Prod. AdriPuntoEfe"
+        },
+        {
+          "youtube": "PhYqX_EqWdU",
+          "titulo": "Dead Club",
+          "subtitulo": "AdriPuntoEfe · Prod. Malakkor",
+          "distintivo": ""
+        },
+        {
+          "youtube": "wdHQ8vJGq9Q",
+          "titulo": "Redención",
+          "subtitulo": "AdriPuntoEfe ft. Teis · Prod. Pacífiko",
+          "distintivo": ""
+        },
+        {
+          "youtube": "A9OUAYe8gEM",
+          "titulo": "Sexy Lady",
+          "subtitulo": "AdriPuntoEfe",
+          "distintivo": ""
+        }
+      ]
+    },
+    {
+      "tipo": "galeria",
+      "menu": "El templo",
+      "capitulo": "07 / EL ESPACIO",
+      "antetitulo": "El templo",
+      "titulo": "Un refugio para [[crear sin prisa.]]",
+      "fotos": [
+        {
+          "src": "archivos/sala-roja.webp",
+          "alt": "Sala de control con luz roja",
+          "grande": true
+        },
+        {
+          "src": "archivos/cabina.webp",
+          "alt": "Cabina de grabación"
+        },
+        {
+          "src": "archivos/micro.webp",
+          "alt": "Micrófono de la cabina"
+        },
+        {
+          "src": "archivos/sala-control.webp",
+          "alt": "Sala de control"
+        },
+        {
+          "src": "archivos/puesto-rojo.webp",
+          "alt": "Puesto de producción"
+        }
+      ],
+      "nota": "Estamos en Alfajarín, Zaragoza. Escríbeme y te paso la ubicación."
+    },
+    {
+      "tipo": "servicios",
+      "id": "servicios",
+      "menu": "Servicios",
+      "capitulo": "08 / LOS SERVICIOS",
+      "antetitulo": "Packs",
+      "titulo": "Tu música tiene un camino. [[Elige cómo empezamos.]]",
+      "planes": [
+        {
+          "verbo": "Encender",
+          "nombre": "Paso por el Templo",
+          "tipo": "Grabación de voces + mezcla + mastering",
+          "etiqueta": "El más pedido",
+          "destacado": true,
+          "frase": "Tú traes la instrumental. Yo me encargo de que suene como merece.",
+          "texto": [
+            "Grabamos las voces en cabina, te acompaño toma a toma y cuido tu interpretación sin cambiar tu esencia.",
+            "¿Es tu primera vez? No tienes que demostrar nada. Te guío durante la sesión."
+          ],
+          "incluye": [
+            "Sesión de grabación guiada en el estudio",
+            "Te enseño a grabar cada pista pensando ya en la mezcla",
+            "Mezcla y master profesional",
+            "Hasta 2 revisiones",
+            "Entrega en un máximo de 5 días laborables",
+            "Master en WAV y MP3"
+          ],
+          "boton": {
+            "texto": "Consultar fecha por WhatsApp",
+            "whatsapp": "¡Hola Adri! Quiero grabar un tema (Paso por el Templo). ¿Qué fechas tienes?"
+          },
+          "alternativa": {
+            "texto": "Prefiero contar mi idea en el formulario →",
+            "seccion": "contacto"
+          },
+          "nota": "Tu instrumental · Grabación guiada · Mezcla y mastering"
+        },
+        {
+          "verbo": "Forjar",
+          "nombre": "Hecho en el Templo",
+          "tipo": "Beat exclusivo + grabación + mezcla + mastering",
+          "frase": "No cualquier beat. Uno que hable tu idioma.",
+          "texto": "Construimos una instrumental exclusiva que encaje contigo y con lo que quieres contar.",
+          "incluye": [
+            "Beat personalizado hecho para ti, en exclusiva",
+            "Grabación guiada, mezcla y master",
+            "Hasta 2 revisiones",
+            "Master en WAV y MP3"
+          ],
+          "boton": {
+            "texto": "Consultar mi producción",
+            "whatsapp": "¡Hola Adri! Me interesa un beat a medida (Hecho en el Templo)."
+          },
+          "alternativa": {
+            "texto": "Prefiero contar mi idea en el formulario →",
+            "seccion": "contacto"
+          },
+          "nota": "Presupuesto a medida"
+        },
+        {
+          "verbo": "Arder",
+          "nombre": "Residencia en el Templo",
+          "tipo": "Proyecto de varias canciones · EP o disco",
+          "frase": "Cuando cada canción forma parte de algo más grande.",
+          "texto": "Un EP o un disco necesita una dirección, no solo buenas canciones.",
+          "incluye": [
+            "Planificación: orden de temas, sesiones y ritmo",
+            "Grabación, mezcla y master de todos los temas",
+            "Coherencia de sonido en todo el disco",
+            "Beats a medida si el proyecto los necesita (presupuesto aparte)"
+          ],
+          "aviso": "**¿También necesitas dirección artística?** Mentoría, identidad o lanzamiento como servicios complementarios.",
+          "boton": {
+            "texto": "Hablemos de mi EP / disco",
+            "whatsapp": "¡Hola Adri! Estoy preparando un EP o disco y quiero contártelo."
+          },
+          "alternativa": {
+            "texto": "Prefiero contar mi proyecto en el formulario →",
+            "seccion": "contacto"
+          },
+          "nota": "Presupuesto personalizado"
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "antetitulo": "A medida",
+      "titulo": "¿Necesitas algo puntual? [[También lo hacemos.]]",
+      "items": [
+        {
+          "titulo": "Mezcla y master online",
+          "texto": "Me mandas tus pistas y te devuelvo el tema terminado."
+        },
+        {
+          "titulo": "Beats a medida",
+          "texto": "Instrumentales exclusivas para tu proyecto."
+        },
+        {
+          "titulo": "Locución y doblaje",
+          "texto": "Voces para anuncios, vídeos y podcasts."
+        },
+        {
+          "titulo": "Reparación de audio",
+          "texto": "Limpieza de ruido, clics y grabaciones dañadas."
+        },
+        {
+          "titulo": "Mentoría para artistas",
+          "texto": "Dirección, identidad y plan de lanzamiento."
+        },
+        {
+          "titulo": "Distribución digital",
+          "texto": "Te ayudo a publicar en plataformas."
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "id": "contacto",
+      "menu": "Tu proyecto",
+      "capitulo": "10 / EL COMIENZO",
+      "antetitulo": "Entra al templo",
+      "titulo": "¿Lo [[hacemos realidad?]]",
+      "entradilla": "Contéstame cinco preguntas cortas y abrimos WhatsApp con todo preparado. Si lo tienes claro, escríbeme directamente.",
+      "directo": {
+        "titulo": "¿Ya sabes lo que quieres grabar?",
+        "texto": "Escríbeme y buscamos un día. Sin formulario y sin compromiso.",
+        "boton": {
+          "texto": "Abrir WhatsApp",
+          "whatsapp": "¡Hola Adri! He visto tu web y quiero contarte mi idea para grabar en Refuge Sound. ¿Hablamos?"
+        }
+      },
+      "mensajeInicio": "¡Hola Adri! Vengo de tu web, te cuento:",
+      "preguntas": [
+        {
+          "pregunta": "¿En qué punto estás con tu música?",
+          "clave": "Punto",
+          "opciones": [
+            "Estoy empezando",
+            "Ya he sacado algunos temas",
+            "Llevo años y quiero subir de nivel"
+          ]
+        },
+        {
+          "pregunta": "¿Qué necesitas ahora mismo?",
+          "clave": "Necesito",
+          "opciones": [
+            "Grabar un tema (Paso por el Templo)",
+            "Un tema con beat a medida (Hecho en el Templo)",
+            "Un EP o disco (Residencia en el Templo)",
+            "Mezcla o master online",
+            "Mentoría para artistas",
+            "Locución o doblaje",
+            "Otra cosa"
+          ]
+        },
+        {
+          "pregunta": "¿Qué es lo que más te importa ahora?",
+          "clave": "Prioridad",
+          "opciones": [
+            "Que mi canción suene y emocione como la imagino",
+            "Encontrar un sonido propio",
+            "Dar dirección a mi proyecto",
+            "Conocer opciones y presupuesto"
+          ]
+        },
+        {
+          "pregunta": "¿Cuándo te gustaría empezar?",
+          "clave": "Cuándo",
+          "opciones": [
+            "Lo antes posible",
+            "En las próximas semanas",
+            "Más adelante, me estoy informando"
+          ]
+        },
+        {
+          "pregunta": "¿Algo más que deba saber?",
+          "clave": "Detalles",
+          "ayuda": "Nombre artístico, estilo, un enlace a tu música..."
+        }
+      ],
+      "foto": "archivos/s-contacto.webp",
+      "fotoAlt": "Adri con unos cascos bajo la luz roja"
+    }
+  ],
+  "pie": {
+    "titular": "ADRI PUNTO EFE PRODUCCIONES",
+    "texto": "Refuge Sound Record"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "nombre": "Noche",
+  "descripcion": "Oscuro y elegante, negro azulado y oro. Coctelerías, peluquerías, bodas y eventos, joyería, hoteles.",
+  "modo": "oscuro",
+  "grano": true,
+  "fuentes": {
+    "google": "family=Cormorant+Garamond:wght@500;600&family=Jost:wght@400;500;600;700"
+  },
+  "variables": {
+    "--fondo": "#0D1117",
+    "--superficie": "#121821",
+    "--superficie-2": "#18202B",
+    "--linea": "#2A3340",
+    "--texto": "#F3EFE7",
+    "--texto-2": "#A9B0BA",
+    "--acento": "#C9A45C",
+    "--acento-2": "#D9B875",
+    "--acento-hover": "#B8934B",
+    "--sobre-acento": "#0D1117",
+    "--exito": "#7FC8A9",
+    "--nav-fondo": "rgba(13,17,23,.97)",
+    "--fuente-titulos": "\"Cormorant Garamond\",Georgia,serif",
+    "--fuente-texto": "\"Jost\",system-ui,sans-serif",
+    "--titulos-peso": "500",
+    "--titulos-espaciado": "0",
+    "--titulos-mayus": "none",
+    "--radio": "0px",
+    "--radio-btn": "0px",
+    "--grano": ".05",
+    "--ancho": "1180px"
+  }
+}

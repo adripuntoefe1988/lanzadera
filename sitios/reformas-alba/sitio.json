@@ -1,0 +1,225 @@
+{
+  "_nota": "Negocio inventado para enseñar el tema. Las fotos son huecos con la foto que habría que hacer; las reseñas, huecos para reseñas reales.",
+  "titulo": "Alba Reformas · cocinas y baños llave en mano",
+  "descripcion": "Reformas de cocinas, baños y viviendas completas con presupuesto cerrado y un único interlocutor de principio a fin.",
+  "tema": "papel",
+  "marca": {
+    "nombre": "Alba Reformas"
+  },
+  "contacto": {
+    "whatsapp": "34600000000",
+    "mensaje": "Hola, quería presupuesto para una reforma.",
+    "email": "hola@ejemplo.com"
+  },
+  "navegacion": {
+    "boton": {
+      "texto": "Pide presupuesto",
+      "seccion": "presupuesto"
+    }
+  },
+  "secciones": [
+    {
+      "tipo": "hero",
+      "antetitulo": "Reformas llave en mano",
+      "titulo": [
+        "Tu casa nueva,",
+        {
+          "texto": "sin sustos.",
+          "acento": true
+        }
+      ],
+      "entradilla": "Presupuesto cerrado, plazos por escrito y una sola persona que responde por todo.",
+      "fotoAlt": "Foto: cocina terminada, luz cálida",
+      "botones": [
+        {
+          "texto": "Pide presupuesto",
+          "seccion": "presupuesto"
+        },
+        {
+          "texto": "Ver antes y después",
+          "seccion": "antes-y-despues",
+          "estilo": "secundario"
+        }
+      ],
+      "datos": [
+        {
+          "valor": "180+",
+          "texto": "obras entregadas"
+        },
+        {
+          "valor": "0 €",
+          "texto": "de desvío medio"
+        }
+      ]
+    },
+    {
+      "tipo": "comparador",
+      "menu": "Antes y después",
+      "modo": "imagen",
+      "titulo": "Antes y después, [[sin trampa.]]",
+      "entradilla": "Desliza para comparar. Mismas fotos, mismo ángulo.",
+      "items": [
+        {
+          "titulo": "Cocina en Delicias",
+          "alt": "Cocina"
+        },
+        {
+          "titulo": "Baño en Romareda",
+          "alt": "Baño"
+        }
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "menu": "Cómo trabajamos",
+      "titulo": "Así funciona [[una obra con nosotros.]]",
+      "pasos": [
+        {
+          "titulo": "Visita",
+          "texto": "Medimos y escuchamos qué necesitas."
+        },
+        {
+          "titulo": "Presupuesto cerrado",
+          "texto": "Partida por partida, sin letra pequeña."
+        },
+        {
+          "titulo": "Obra",
+          "texto": "Calendario por escrito y fotos cada semana."
+        },
+        {
+          "titulo": "Entrega",
+          "texto": "Limpieza final y garantía de 2 años."
+        }
+      ]
+    },
+    {
+      "tipo": "servicios",
+      "menu": "Servicios",
+      "titulo": "Lo que [[reformamos.]]",
+      "planes": [
+        {
+          "nombre": "Cocinas",
+          "frase": "De 3 a 4 semanas.",
+          "incluye": [
+            "Muebles y encimera",
+            "Fontanería y electricidad",
+            "Electrodomésticos"
+          ],
+          "boton": {
+            "texto": "Presupuesto de cocina",
+            "whatsapp": "Hola, quiero reformar la cocina."
+          }
+        },
+        {
+          "nombre": "Baños",
+          "frase": "De 1 a 2 semanas.",
+          "incluye": [
+            "Plato de ducha",
+            "Alicatado",
+            "Mampara y sanitarios"
+          ],
+          "destacado": true,
+          "etiqueta": "El más pedido",
+          "boton": {
+            "texto": "Presupuesto de baño",
+            "whatsapp": "Hola, quiero reformar el baño."
+          }
+        },
+        {
+          "nombre": "Vivienda completa",
+          "frase": "Proyecto a medida.",
+          "incluye": [
+            "Distribución nueva",
+            "Licencias",
+            "Interiorismo"
+          ],
+          "boton": {
+            "texto": "Hablemos",
+            "whatsapp": "Hola, quiero reformar la vivienda entera."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "galeria",
+      "menu": "Obras",
+      "titulo": "Obras [[recientes.]]",
+      "fotos": [
+        {
+          "alt": "Foto: salón abierto a cocina",
+          "grande": true
+        },
+        {
+          "alt": "Foto: baño con plato de ducha"
+        },
+        {
+          "alt": "Foto: detalle de encimera"
+        },
+        {
+          "alt": "Foto: dormitorio"
+        },
+        {
+          "alt": "Foto: pasillo"
+        }
+      ]
+    },
+    {
+      "tipo": "faq",
+      "titulo": "Antes de [[empezar.]]",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto cuesta un baño?",
+          "respuesta": "Depende de medidas y acabados. Tras la visita te damos un precio cerrado."
+        },
+        {
+          "pregunta": "¿Os encargáis de la licencia?",
+          "respuesta": "Sí, la tramitamos nosotros."
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "id": "presupuesto",
+      "titulo": "Pide tu [[presupuesto.]]",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué quieres reformar?",
+          "clave": "Reforma",
+          "opciones": [
+            "Cocina",
+            "Baño",
+            "Vivienda completa",
+            "Otra cosa"
+          ]
+        },
+        {
+          "pregunta": "¿Cuántos metros aproximados?",
+          "clave": "Metros",
+          "opciones": [
+            "Menos de 10 m²",
+            "10 a 30 m²",
+            "Más de 30 m²",
+            "No lo sé"
+          ]
+        },
+        {
+          "pregunta": "¿Cuándo te gustaría empezar?",
+          "clave": "Cuándo",
+          "opciones": [
+            "Este mes",
+            "En 1 a 3 meses",
+            "Más adelante"
+          ]
+        },
+        {
+          "pregunta": "¿Dónde está la vivienda?",
+          "clave": "Zona",
+          "ayuda": "Barrio o localidad"
+        }
+      ]
+    }
+  ],
+  "pie": {
+    "texto": "Ejemplo de la lanzadera"
+  }
+}

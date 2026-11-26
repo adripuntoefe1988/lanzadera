@@ -1,0 +1,226 @@
+{
+  "_nota": "Negocio inventado para enseñar el tema. Las fotos son huecos con la foto que habría que hacer; las reseñas, huecos para reseñas reales.",
+  "titulo": "Horno La Espiga · pan de masa madre",
+  "descripcion": "Panadería de barrio con pan de masa madre, bollería de mantequilla y encargos para celebraciones. Horneamos cada mañana desde las 6.",
+  "tema": "horno",
+  "marca": {
+    "nombre": "Horno La Espiga"
+  },
+  "contacto": {
+    "whatsapp": "34600000000",
+    "mensaje": "¡Hola! Quería hacer un encargo.",
+    "telefono": "976 000 000"
+  },
+  "navegacion": {
+    "boton": {
+      "texto": "Haz tu encargo",
+      "seccion": "encargos"
+    }
+  },
+  "secciones": [
+    {
+      "tipo": "hero",
+      "antetitulo": "Panadería de barrio desde 1987",
+      "titulo": [
+        "Pan de verdad,",
+        {
+          "texto": "recién hecho.",
+          "acento": true
+        }
+      ],
+      "entradilla": "Masa madre, harinas de molino de piedra y 24 horas de fermentación. Sin prisas y sin atajos.",
+      "fotoAlt": "Foto: hogazas saliendo del horno, vapor, luz de mañana",
+      "botones": [
+        {
+          "texto": "Haz tu encargo",
+          "seccion": "encargos"
+        },
+        {
+          "texto": "Ver el horno",
+          "seccion": "el-obrador",
+          "estilo": "secundario"
+        }
+      ],
+      "datos": [
+        {
+          "valor": "24 h",
+          "texto": "de fermentación"
+        },
+        {
+          "valor": "6:00",
+          "texto": "primera hornada"
+        },
+        {
+          "valor": "37",
+          "texto": "años en el barrio"
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "menu": "Qué hacemos",
+      "antetitulo": "Cada mañana",
+      "titulo": "Lo que sale [[del horno.]]",
+      "items": [
+        {
+          "titulo": "Hogaza de masa madre",
+          "texto": "Corteza crujiente y miga abierta. La de siempre."
+        },
+        {
+          "titulo": "Pan de centeno",
+          "texto": "Con semillas, aguanta tierno toda la semana."
+        },
+        {
+          "titulo": "Croissants de mantequilla",
+          "texto": "Laminados a mano, solo los sábados y domingos."
+        },
+        {
+          "titulo": "Tartas por encargo",
+          "texto": "Cumpleaños, comuniones y bodas."
+        }
+      ]
+    },
+    {
+      "tipo": "texto-foto",
+      "id": "el-obrador",
+      "menu": "El obrador",
+      "antetitulo": "Nuestra historia",
+      "titulo": "Tres generaciones [[con las manos en la masa.]]",
+      "parrafos": [
+        "El abuelo abrió el horno en 1987 con un saco de harina y una receta.",
+        "Hoy seguimos amasando de madrugada, con la misma masa madre que él empezó."
+      ],
+      "firma": "Familia La Espiga",
+      "fotos": [
+        {
+          "alt": "Foto: manos amasando"
+        },
+        {
+          "alt": "Foto: masa madre en el tarro"
+        }
+      ],
+      "invertir": true
+    },
+    {
+      "tipo": "galeria",
+      "titulo": "El horno [[por dentro.]]",
+      "fotos": [
+        {
+          "alt": "Foto: mostrador por la mañana",
+          "grande": true
+        },
+        {
+          "alt": "Foto: croissants en bandeja"
+        },
+        {
+          "alt": "Foto: hogazas en las baldas"
+        },
+        {
+          "alt": "Foto: tarta de cumpleaños"
+        },
+        {
+          "alt": "Foto: horno de leña"
+        }
+      ]
+    },
+    {
+      "tipo": "testimonios",
+      "titulo": "El barrio [[opina.]]",
+      "citas": [
+        {
+          "frase": "Aquí va una frase de un cliente real.",
+          "nombre": "Cliente real"
+        },
+        {
+          "frase": "Aquí va una frase de un cliente real.",
+          "nombre": "Cliente real"
+        },
+        {
+          "frase": "Aquí va una frase de un cliente real.",
+          "nombre": "Cliente real"
+        }
+      ]
+    },
+    {
+      "tipo": "servicios",
+      "id": "encargos",
+      "menu": "Encargos",
+      "antetitulo": "Encargos",
+      "titulo": "Para que en tu mesa [[no falte pan.]]",
+      "planes": [
+        {
+          "nombre": "Tartas de celebración",
+          "frase": "Dinos cuántos sois y el sabor.",
+          "incluye": [
+            "De 6 a 40 raciones",
+            "Con 48 h de antelación",
+            "Personalizadas con nombre"
+          ],
+          "destacado": true,
+          "etiqueta": "Lo más pedido",
+          "boton": {
+            "texto": "Encargar tarta",
+            "whatsapp": "¡Hola! Quería encargar una tarta para ... personas el día ..."
+          }
+        },
+        {
+          "nombre": "Bandejas para eventos",
+          "frase": "Bocadillos, empanadas y dulces.",
+          "incluye": [
+            "Desde 10 personas",
+            "Recogida o reparto en el barrio"
+          ],
+          "boton": {
+            "texto": "Pedir presupuesto",
+            "whatsapp": "¡Hola! Quería una bandeja para un evento."
+          }
+        },
+        {
+          "nombre": "Pan para bares y restaurantes",
+          "frase": "Reparto diario antes de las 9.",
+          "incluye": [
+            "Pedido semanal",
+            "Factura mensual"
+          ],
+          "boton": {
+            "texto": "Hablemos",
+            "whatsapp": "¡Hola! Tengo un bar/restaurante y me interesa vuestro pan."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "ubicacion",
+      "menu": "Dónde",
+      "titulo": "Ven a [[por pan.]]",
+      "parrafos": [
+        "Estamos en la plaza, junto a la farmacia. Hay aparcamiento en la calle de atrás."
+      ],
+      "direccion": "Plaza Mayor 3 (dirección de ejemplo)",
+      "horario": [
+        {
+          "dias": "Lunes a sábado",
+          "horas": "7:00 – 14:00 y 17:30 – 20:30"
+        },
+        {
+          "dias": "Domingos",
+          "horas": "8:00 – 14:00"
+        }
+      ],
+      "mapa": "https://maps.google.com"
+    },
+    {
+      "tipo": "cta",
+      "titulo": "¿Celebras algo? [[Te hacemos la tarta.]]",
+      "botones": [
+        {
+          "texto": "Encargar por WhatsApp",
+          "whatsapp": "¡Hola! Quería encargar una tarta."
+        }
+      ]
+    }
+  ],
+  "pie": {
+    "texto": "Ejemplo de la lanzadera"
+  }
+}

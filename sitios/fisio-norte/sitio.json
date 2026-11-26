@@ -1,0 +1,249 @@
+{
+  "_nota": "Negocio inventado para enseñar el tema. Las fotos son huecos con la foto que habría que hacer; las reseñas, huecos para reseñas reales.",
+  "titulo": "Fisio Norte · fisioterapia y readaptación",
+  "descripcion": "Clínica de fisioterapia: dolor de espalda, lesiones deportivas y suelo pélvico. Primera valoración de 60 minutos con plan por escrito.",
+  "tema": "clinica",
+  "marca": {
+    "nombre": "Fisio Norte"
+  },
+  "contacto": {
+    "whatsapp": "34600000000",
+    "mensaje": "Hola, quería pedir cita.",
+    "email": "hola@ejemplo.com",
+    "telefono": "976 000 000"
+  },
+  "navegacion": {
+    "boton": {
+      "texto": "Pedir cita",
+      "seccion": "cita"
+    }
+  },
+  "extras": {
+    "botonWhatsapp": true
+  },
+  "secciones": [
+    {
+      "tipo": "hero",
+      "antetitulo": "Fisioterapia y readaptación",
+      "titulo": [
+        "Vuelve a moverte",
+        {
+          "texto": "sin dolor.",
+          "acento": true
+        }
+      ],
+      "entradilla": "Te explicamos qué te pasa, te tratamos y te enseñamos a que no vuelva. Primera valoración de 60 minutos.",
+      "fotoAlt": "Foto: fisio trabajando la espalda de un paciente, luz natural",
+      "botones": [
+        {
+          "texto": "Pedir cita",
+          "seccion": "cita"
+        },
+        {
+          "texto": "Cómo trabajamos",
+          "seccion": "como",
+          "estilo": "secundario"
+        }
+      ]
+    },
+    {
+      "tipo": "caminos",
+      "menu": "Tratamientos",
+      "titulo": "¿Qué te [[trae por aquí?]]",
+      "tarjetas": [
+        {
+          "titulo": "Dolor de espalda o cuello",
+          "texto": "Lumbalgias, contracturas, ciática.",
+          "fotoAlt": "Foto: tratamiento cervical",
+          "boton": {
+            "texto": "Pedir valoración",
+            "whatsapp": "Hola, tengo dolor de espalda y quería pedir valoración."
+          }
+        },
+        {
+          "titulo": "Lesión deportiva",
+          "texto": "Esguinces, tendinitis y vuelta al deporte.",
+          "fotoAlt": "Foto: ejercicio de readaptación",
+          "boton": {
+            "texto": "Pedir valoración",
+            "whatsapp": "Hola, tengo una lesión deportiva."
+          }
+        },
+        {
+          "titulo": "Suelo pélvico",
+          "texto": "Embarazo, posparto e incontinencia.",
+          "fotoAlt": "Foto: consulta tranquila",
+          "boton": {
+            "texto": "Pedir valoración",
+            "whatsapp": "Hola, quería información sobre suelo pélvico."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "id": "como",
+      "menu": "Cómo trabajamos",
+      "titulo": "Tu primera visita, [[paso a paso.]]",
+      "pasos": [
+        {
+          "titulo": "Te escuchamos",
+          "texto": "Historia, pruebas y objetivos. Sin prisas."
+        },
+        {
+          "titulo": "Te exploramos",
+          "texto": "Movilidad, fuerza y qué tejido está implicado."
+        },
+        {
+          "titulo": "Tratamos",
+          "texto": "Terapia manual y ejercicio desde el primer día."
+        },
+        {
+          "titulo": "Plan por escrito",
+          "texto": "Sabes cuántas sesiones y qué hacer en casa."
+        }
+      ]
+    },
+    {
+      "tipo": "servicios",
+      "menu": "Tarifas",
+      "titulo": "Tarifas [[claras.]]",
+      "planes": [
+        {
+          "nombre": "Valoración inicial",
+          "precio": "55 €",
+          "tipo": "60 minutos",
+          "incluye": [
+            "Exploración completa",
+            "Primer tratamiento",
+            "Plan por escrito"
+          ],
+          "destacado": true,
+          "etiqueta": "Empieza aquí",
+          "boton": {
+            "texto": "Pedir cita",
+            "whatsapp": "Hola, quería pedir una valoración inicial."
+          }
+        },
+        {
+          "nombre": "Sesión de seguimiento",
+          "precio": "45 €",
+          "tipo": "45 minutos",
+          "incluye": [
+            "Tratamiento",
+            "Ajuste de ejercicios"
+          ],
+          "boton": {
+            "texto": "Pedir cita",
+            "whatsapp": "Hola, quería una sesión de seguimiento."
+          }
+        },
+        {
+          "nombre": "Bono 5 sesiones",
+          "precio": "200 €",
+          "tipo": "Válido 3 meses",
+          "incluye": [
+            "Ahorras 25 €",
+            "Prioridad de horario"
+          ],
+          "boton": {
+            "texto": "Preguntar",
+            "whatsapp": "Hola, me interesa el bono de 5 sesiones."
+          }
+        }
+      ],
+      "nota": "Precios de ejemplo. Emitimos factura para tu seguro o mutua."
+    },
+    {
+      "tipo": "testimonios",
+      "titulo": "Pacientes [[que ya se mueven.]]",
+      "citas": [
+        {
+          "frase": "Aquí va una frase de un cliente real.",
+          "nombre": "Paciente real",
+          "rol": "Tratamiento"
+        },
+        {
+          "frase": "Aquí va una frase de un cliente real.",
+          "nombre": "Paciente real",
+          "rol": "Tratamiento"
+        }
+      ]
+    },
+    {
+      "tipo": "faq",
+      "menu": "Dudas",
+      "titulo": "Dudas [[frecuentes.]]",
+      "preguntas": [
+        {
+          "pregunta": "¿Necesito informe médico?",
+          "respuesta": "No. Si lo tienes, tráelo."
+        },
+        {
+          "pregunta": "¿Qué ropa llevo?",
+          "respuesta": "Cómoda, que deje ver la zona a tratar."
+        },
+        {
+          "pregunta": "¿Trabajáis con mutuas?",
+          "respuesta": "Te damos factura para que te lo reembolsen."
+        }
+      ]
+    },
+    {
+      "tipo": "ubicacion",
+      "titulo": "Dónde [[estamos.]]",
+      "direccion": "Calle Ejemplo 12, bajo",
+      "horario": [
+        {
+          "dias": "Lunes a viernes",
+          "horas": "9:00 – 21:00"
+        },
+        {
+          "dias": "Sábados",
+          "horas": "9:00 – 13:00"
+        }
+      ],
+      "mapa": "https://maps.google.com",
+      "nota": "Accesible en silla de ruedas."
+    },
+    {
+      "tipo": "cuestionario",
+      "id": "cita",
+      "titulo": "Pide tu [[cita.]]",
+      "entradilla": "Tres preguntas y te contestamos con hueco.",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué te pasa?",
+          "clave": "Motivo",
+          "opciones": [
+            "Dolor de espalda o cuello",
+            "Lesión deportiva",
+            "Suelo pélvico",
+            "Otra cosa"
+          ]
+        },
+        {
+          "pregunta": "¿Desde cuándo?",
+          "clave": "Desde",
+          "opciones": [
+            "Menos de un mes",
+            "De 1 a 6 meses",
+            "Más de 6 meses"
+          ]
+        },
+        {
+          "pregunta": "¿Qué horario te viene mejor?",
+          "clave": "Horario",
+          "opciones": [
+            "Mañanas",
+            "Tardes",
+            "Me da igual"
+          ]
+        }
+      ]
+    }
+  ],
+  "pie": {
+    "texto": "Ejemplo de la lanzadera"
+  }
+}
